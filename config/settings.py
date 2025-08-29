@@ -30,16 +30,13 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     'apps.accounts',
-    'apps.main',
-    'apps.comments',
-    'apps.subscribe',
-    'apps.payment',
 ]
 
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
+    
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -69,17 +66,30 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'config.wsgi.application'
 
+# Database
+# https://docs.djangoproject.com/en/5.0/ref/settings/#databases
+
+# This configuration in the Django settings file is specifying the default database connection
+# settings for the project.
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': config('POSTGRES_DB', default='newssite'),
-        'USER': config('POSTGRES_USER', default='newsuser'),
-        'PASSWORD': config('POSTGRES_PASSWORD'),
-        'HOST': config('DB_HOST', default='localhost'),
-        'PORT': config('DB_PORT', default='5432', cast=int),
-        'ATOMIC_REQUESTS': True,
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': config('POSTGRES_DB', default='newssite'),
+#         'USER': config('POSTGRES_USER', default='newsuser'),
+#         'PASSWORD': config('POSTGRES_PASSWORD'),
+#         'HOST': config('DB_HOST', default='localhost'),
+#         'PORT': config('DB_PORT', default='5432', cast=int),
+#         'ATOMIC_REQUESTS': True,
+#     }
+# }
 
 # Password validation
 AUTH_PASSWORD_VALIDATORS = [

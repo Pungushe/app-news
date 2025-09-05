@@ -25,7 +25,6 @@ class Category(models.Model):
         super().save(*args, **kwargs)
         
 class Post(models.Model):
-    
     STATUS = (
         ('draft', 'Черновик'),
         ('published', 'Опубликован')

@@ -4,7 +4,7 @@ from apps.frontpage.models import Post
 
 
 class CommentSerializer(serializers.ModelSerializer):
-    """Сериализатор для комментариев"""
+    """Базовый сериализатор для комментариев"""
     author_info = serializers.SerializerMethodField()
     replies_count = serializers.ReadOnlyField()
     is_reply = serializers.ReadOnlyField()
@@ -12,8 +12,10 @@ class CommentSerializer(serializers.ModelSerializer):
     class Meta:
         model = Comment
         fields = [
-            'id', 'parent', 'author', 'author_info', 'content', 'is_active',
-            'created_at', 'updated_at', 'replies_count', 'is_reply']
+            'id', 'content', 'author', 'author_info', 'parent',
+            'is_active', 'replies_count', 'is_reply',
+            'created_at', 'updated_at'
+        ]
         read_only_fields = ['author', 'is_active']
 
     def get_author_info(self, obj):
@@ -21,10 +23,10 @@ class CommentSerializer(serializers.ModelSerializer):
             'id': obj.author.id,
             'username': obj.author.username,
             'full_name': obj.author.full_name,
-            'avatar': obj.author.avatar.url if obj.author.avatar else None,
+            'avatar': obj.author.avatar.url if obj.author.avatar else None
         }
     
-    
+
 class CommentCreateSerializer(serializers.ModelSerializer):
     """Сериализатор для создания комментариев"""
     
@@ -32,18 +34,27 @@ class CommentCreateSerializer(serializers.ModelSerializer):
         model = Comment
         fields = ['post', 'parent', 'content']
 
-    def validated_post(self, value):
+    def validate_post(self, value):
         if not Post.objects.filter(id=value.id, status='published').exists():
-            raise serializers.ValidationError('Пост не найден')
+            raise serializers.ValidationError('Post not found')
         return value
-    def validated_parent(self, value):
-        if value and value.post != self.initial_data.get("post"):
-            raise serializers.ValidationError('Комментарий должен относится к тому же посту')
+
+    def validate_parent(self, value):
+        if value:
+            # Получаем пост из валидированных данных или из initial_data
+            post_data = self.initial_data.get('post')
+            if post_data:
+                # Сравниваем ID поста родительского комментария с переданным ID поста
+                if value.post.id != int(post_data):
+                    raise serializers.ValidationError(
+                        'Parent comment must belong to the same post.'
+                    )
         return value
     
     def create(self, validated_data):
         validated_data['author'] = self.context['request'].user
         return super().create(validated_data)
+    
 
 class CommentUpdateSerializer(serializers.ModelSerializer):
     """Сериализатор для обновления комментариев"""
@@ -51,16 +62,19 @@ class CommentUpdateSerializer(serializers.ModelSerializer):
     class Meta:
         model = Comment
         fields = ['content']
+    
 
-class CommentDetailSerializer(serializers.ModelSerializer):
-    """Сериализатор для комментариев c ответами"""
+class CommentDetailSerializer(CommentSerializer):
+    """Детальный сериализатор комментария с ответами"""
     replies = serializers.SerializerMethodField()
+
     class Meta(CommentSerializer.Meta):
         fields = CommentSerializer.Meta.fields + ['replies']
-        
+
     def get_replies(self, obj):
-        if obj.parent is None:
+        if obj.parent is None:  # Показываем ответы только для основных комментариев
             replies = obj.replies.filter(is_active=True).order_by('created_at')
-            return CommentSerializer(replies, many=True, context = self.context).data
+            return CommentSerializer(replies, many=True, context=self.context).data
         return []
+    
     

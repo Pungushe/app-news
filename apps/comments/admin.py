@@ -33,7 +33,7 @@ class CommentAdmin(admin.ModelAdmin):
     post_title.short_description = 'Пост'
 
     def content_preview(self, obj):
-        return obj.content[:50] + '...' if len(obj.content) > 50 else obj.content
+        return f'{obj.content[:50]}...' if len(obj.content) > 50 else obj.content
     content_preview.short_description = 'Content Preview'
 
     def parent_comment(self, obj):

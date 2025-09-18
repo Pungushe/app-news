@@ -53,13 +53,17 @@ class PostDetailSerializer(serializers.ModelSerializer):
     author_info = serializers.SerializerMethodField()
     category_info = serializers.SerializerMethodField()
     comments_count = serializers.ReadOnlyField()
+    is_pinned = serializers.ReadOnlyField()
+    pinned_info = serializers.SerializerMethodField()
+    can_pin = serializers.SerializerMethodField()
     
     class Meta:
         model = Post
         fields = [
             'id', 'title', 'slug', 'content', 'image', 'category',
             'category_info', 'author', 'author_info', 'status',
-            'created_at', 'updated_at', 'views_count', 'comments_count'
+            'created_at', 'updated_at', 'views_count', 'comments_count',
+            'is_pinned', 'pinned_info', 'can_pin'
         ]
         read_only_fields = ['slug', 'author', 'views_count']
 
@@ -80,6 +84,16 @@ class PostDetailSerializer(serializers.ModelSerializer):
                 'slug': obj.category.slug,
             }
         return None
+    
+    def get_pinned_info(self, obj):
+        return obj.get_pinned_info()
+    
+    def get_can_pin(self, obj):
+        request = self.context.get('request')
+        
+        if not request or not request.user.is_authenticated:
+            return False
+        return obj.can_be_pinned_by(request.user)
 
 class PostCreateUpdateSerializer(serializers.ModelSerializer):
     """Сериализатор для создания и обновления постов"""

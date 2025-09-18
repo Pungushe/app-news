@@ -56,7 +56,7 @@ class UserSubscriptionView(generics.RetrieveAPIView):
                 "detail": "Подписка не найдена"
             }, status=status.HTTP_404_NOT_FOUND)
 
-class SubscriptionHistoryListView(generics.ListAPIView):
+class SubscriptionHistoryView(generics.ListAPIView):
     """Список изменений подписок пользователя """
     serializer_class = SubscriptionHistorySerializer
     permission_classes = [permissions.IsAuthenticated]

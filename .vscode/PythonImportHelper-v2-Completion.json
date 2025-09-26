@@ -1,0 +1,3223 @@
+[
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "validate_password",
+        "importPath": "django.contrib.auth.password_validation",
+        "description": "django.contrib.auth.password_validation",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.password_validation",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "format_html",
+        "importPath": "django.utils.html",
+        "description": "django.utils.html",
+        "isExtraImport": true,
+        "detail": "django.utils.html",
+        "documentation": {}
+    },
+    {
+        "label": "format_html",
+        "importPath": "django.utils.html",
+        "description": "django.utils.html",
+        "isExtraImport": true,
+        "detail": "django.utils.html",
+        "documentation": {}
+    },
+    {
+        "label": "format_html",
+        "importPath": "django.utils.html",
+        "description": "django.utils.html",
+        "isExtraImport": true,
+        "detail": "django.utils.html",
+        "documentation": {}
+    },
+    {
+        "label": "format_html",
+        "importPath": "django.utils.html",
+        "description": "django.utils.html",
+        "isExtraImport": true,
+        "detail": "django.utils.html",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "apps.frontpage.models",
+        "description": "apps.frontpage.models",
+        "isExtraImport": true,
+        "detail": "apps.frontpage.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "apps.frontpage.models",
+        "description": "apps.frontpage.models",
+        "isExtraImport": true,
+        "detail": "apps.frontpage.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "apps.frontpage.models",
+        "description": "apps.frontpage.models",
+        "isExtraImport": true,
+        "detail": "apps.frontpage.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "apps.frontpage.models",
+        "description": "apps.frontpage.models",
+        "isExtraImport": true,
+        "detail": "apps.frontpage.models",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "CommentSerializer",
+        "importPath": "apps.comments.serializers",
+        "description": "apps.comments.serializers",
+        "isExtraImport": true,
+        "detail": "apps.comments.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "PinnedPost",
+        "importPath": "apps.subscribe.models",
+        "description": "apps.subscribe.models",
+        "isExtraImport": true,
+        "detail": "apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionPlan",
+        "importPath": "apps.subscribe.models",
+        "description": "apps.subscribe.models",
+        "isExtraImport": true,
+        "detail": "apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "importPath": "apps.subscribe.models",
+        "description": "apps.subscribe.models",
+        "isExtraImport": true,
+        "detail": "apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionPlan",
+        "importPath": "apps.subscribe.models",
+        "description": "apps.subscribe.models",
+        "isExtraImport": true,
+        "detail": "apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionHistory",
+        "importPath": "apps.subscribe.models",
+        "description": "apps.subscribe.models",
+        "isExtraImport": true,
+        "detail": "apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionPlan",
+        "importPath": "apps.subscribe.models",
+        "description": "apps.subscribe.models",
+        "isExtraImport": true,
+        "detail": "apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionPlan",
+        "importPath": "apps.subscribe.models",
+        "description": "apps.subscribe.models",
+        "isExtraImport": true,
+        "detail": "apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionPlan",
+        "importPath": "apps.subscribe.models",
+        "description": "apps.subscribe.models",
+        "isExtraImport": true,
+        "detail": "apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "stripe",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "stripe",
+        "description": "stripe",
+        "detail": "stripe",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "pre_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "pre_delete",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "shared_task",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "shared_task",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "require_POST",
+        "importPath": "django.views.decorators.http",
+        "description": "django.views.decorators.http",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.http",
+        "documentation": {}
+    },
+    {
+        "label": "method_decorator",
+        "importPath": "django.utils.decorators",
+        "description": "django.utils.decorators",
+        "isExtraImport": true,
+        "detail": "django.utils.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "checks",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.migrations.0001_initial",
+        "description": "backend.apps.accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "backend.apps.accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.admin",
+        "description": "backend.apps.accounts.admin",
+        "peekOfCode": "class UserAdmin(BaseUserAdmin):\n    list_display = ('email', 'username', 'first_name', 'last_name', 'is_active', 'created_at')\n    list_filter = ('is_active', 'is_staff', 'is_superuser', 'created_at')\n    search_fields = ('email', 'username', 'first_name', 'last_name')\n    ordering = ('-created_at',)\n    fieldsets = (\n        (None, {'fields': ('email', 'username', 'password')}),\n        ('Персональная информация', {'fields': ('first_name', 'last_name', 'avatar', 'bio')}),\n        ('Доступ', {'fields': ('is_active', 'is_staff', 'is_superuser', 'groups', 'user_permissions')}),\n        ('Важные данные', {'fields': ('last_login', 'date_joined', 'created_at', 'updated_at')}),",
+        "detail": "backend.apps.accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.apps",
+        "description": "backend.apps.accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'apps.accounts'\n    verbose_name = \"Аккаунт\"",
+        "detail": "backend.apps.accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.models",
+        "description": "backend.apps.accounts.models",
+        "peekOfCode": "class User(AbstractUser):\n    email = models.EmailField(unique=True, verbose_name='Почта')\n    first_name = models.CharField(max_length=30, blank=True, verbose_name='Имя')\n    last_name = models.CharField(max_length=30, blank=True, verbose_name='Фамилия')\n    avatar = models.ImageField(upload_to='avatars/', blank=True, null=True, verbose_name='Аватар')\n    bio = models.TextField(max_length=500, blank=True, verbose_name='Биография')\n    created_at=models.DateTimeField(auto_now_add=True, verbose_name='Дата регистрации')\n    updated_at=models.DateTimeField(auto_now=True, verbose_name='Дата обновления')\n    is_active = models.BooleanField(default=True, verbose_name='Активен')\n    USERNAME_FIELD = 'email'",
+        "detail": "backend.apps.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.serializers",
+        "description": "backend.apps.accounts.serializers",
+        "peekOfCode": "class UserRegistrationSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для регистрации пользователя\"\"\"\n    password = serializers.CharField(\n        write_only=True, \n        validators=[validate_password]\n    )\n    password_confirm = serializers.CharField(write_only=True)\n    class Meta:\n        model = User\n        fields = (",
+        "detail": "backend.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.serializers",
+        "description": "backend.apps.accounts.serializers",
+        "peekOfCode": "class UserLoginSerializer(serializers.Serializer):\n    \"\"\"Сериализатор для входа пользователя\"\"\"\n    email = serializers.EmailField()\n    password = serializers.CharField(write_only=True)\n    def validate(self, attrs):\n        email = attrs.get('email')\n        password = attrs.get('password')\n        if email and password:\n            user = authenticate(\n                request=self.context.get('request'),",
+        "detail": "backend.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.serializers",
+        "description": "backend.apps.accounts.serializers",
+        "peekOfCode": "class UserProfileSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для профиля пользователя\"\"\"\n    full_name = serializers.ReadOnlyField()\n    posts_count = serializers.SerializerMethodField()\n    comments_count = serializers.SerializerMethodField()\n    class Meta:\n        model = User\n        fields = (\n            'id', 'username', 'email', 'first_name', 'last_name',\n            'full_name', 'avatar', 'bio', 'created_at', 'updated_at',",
+        "detail": "backend.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdateSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.serializers",
+        "description": "backend.apps.accounts.serializers",
+        "peekOfCode": "class UserUpdateSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для обновления профиля пользователя\"\"\"\n    class Meta:\n        model = User\n        fields = (\n            'first_name', 'last_name', 'avatar', 'bio'\n        )\n    def update(self, instance, validated_data):\n        for attr, value in validated_data.items():\n            setattr(instance, attr, value)",
+        "detail": "backend.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ChangePasswordSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.serializers",
+        "description": "backend.apps.accounts.serializers",
+        "peekOfCode": "class ChangePasswordSerializer(serializers.Serializer):\n    \"\"\"Сериализатор для смены пароля\"\"\"\n    old_password = serializers.CharField(required=True)\n    new_password = serializers.CharField(\n        required=True,\n        validators=[validate_password]\n    )\n    new_password_confirm = serializers.CharField(required=True)\n    def validate_old_password(self, value):\n        user = self.context['request'].user",
+        "detail": "backend.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backend.apps.accounts.urls",
+        "description": "backend.apps.accounts.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"register/\", views.RegisterView.as_view(), name=\"register\"),\n    path(\"login/\", views.LoginView.as_view(), name=\"login\"),\n    path(\"logout/\", views.logout_view, name=\"logout\"),\n    path(\"profile/\", views.ProfileView.as_view(), name=\"profile\"),\n    path(\"change-password/\", views.ChangePasswordView.as_view(), name=\"change-password\"),\n    path(\"token/refresh/\", TokenRefreshView.as_view(), name=\"token_refresh\"),\n]",
+        "detail": "backend.apps.accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterView",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.views",
+        "description": "backend.apps.accounts.views",
+        "peekOfCode": "class RegisterView(generics.CreateAPIView):\n    \"\"\"Регистрация нового пользователя\"\"\"\n    queryset = User.objects.all()\n    serializer_class = UserRegistrationSerializer\n    permission_classes = [permissions.AllowAny]\n    def create(self, request, *args, **kwargs):\n        serializer = self.get_serializer(data=request.data)\n        serializer.is_valid(raise_exception=True)\n        user = serializer.save()\n        refresh = RefreshToken.for_user(user)",
+        "detail": "backend.apps.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.views",
+        "description": "backend.apps.accounts.views",
+        "peekOfCode": "class LoginView(generics.GenericAPIView):\n    \"\"\"Вход пользователя\"\"\"\n    serializer_class = UserLoginSerializer\n    permission_classes = [permissions.AllowAny]\n    def post(self, request, *args, **kwargs):\n        serializer = self.get_serializer(data=request.data)\n        serializer.is_valid(raise_exception=True)\n        user = serializer.validated_data['user']\n        login(request, user)\n        refresh = RefreshToken.for_user(user)",
+        "detail": "backend.apps.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileView",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.views",
+        "description": "backend.apps.accounts.views",
+        "peekOfCode": "class ProfileView(generics.RetrieveUpdateAPIView):\n    \"\"\"Просмотр и обновление профиля\"\"\"\n    serializer_class = UserProfileSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def get_object(self):\n        return self.request.user\n    def get_serializer_class(self):\n        if self.request.method == 'PUT' or self.request.method == 'PATCH':\n            return UserUpdateSerializer\n        return UserProfileSerializer",
+        "detail": "backend.apps.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "ChangePasswordView",
+        "kind": 6,
+        "importPath": "backend.apps.accounts.views",
+        "description": "backend.apps.accounts.views",
+        "peekOfCode": "class ChangePasswordView(generics.UpdateAPIView):\n    \"\"\"Смена пароля\"\"\"\n    serializer_class = ChangePasswordSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def get_object(self):\n        return self.request.user\n    def update(self, request, *args, **kwargs):\n        serializer = self.get_serializer(data=request.data)\n        serializer.is_valid(raise_exception=True)\n        serializer.save()",
+        "detail": "backend.apps.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "kind": 2,
+        "importPath": "backend.apps.accounts.views",
+        "description": "backend.apps.accounts.views",
+        "peekOfCode": "def logout_view(request):\n    \"\"\"Выход пользователя\"\"\"\n    try:\n        refresh_token = request.data.get('refresh_token')\n        if refresh_token:\n            token = RefreshToken(refresh_token)\n            token.blacklist()\n        return Response({\n            'message': 'Logout successful'\n        }, status=status.HTTP_200_OK)",
+        "detail": "backend.apps.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.apps.comments.migrations.0001_initial",
+        "description": "backend.apps.comments.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('frontpage', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Comment',\n            fields=[",
+        "detail": "backend.apps.comments.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CommentAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.comments.admin",
+        "description": "backend.apps.comments.admin",
+        "peekOfCode": "class CommentAdmin(admin.ModelAdmin):\n    list_display = (\n        'id', 'post_title', 'author', 'content_preview',\n        'parent_comment', 'is_active', 'created_at'\n    )\n    list_filter = ('is_active', 'created_at', 'updated_at')\n    search_fields = ('content', 'author__username', 'post__title')\n    readonly_fields = ('created_at', 'updated_at')\n    raw_id_fields = ('author', 'post', 'parent')\n    list_editable = ('is_active',)",
+        "detail": "backend.apps.comments.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "backend.apps.comments.apps",
+        "description": "backend.apps.comments.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'apps.comments'\n    verbose_name = \"Комментарии\"",
+        "detail": "backend.apps.comments.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "kind": 6,
+        "importPath": "backend.apps.comments.models",
+        "description": "backend.apps.comments.models",
+        "peekOfCode": "class Comment(models.Model):\n    post = models.ForeignKey('frontpage.Post', on_delete=models.CASCADE, related_name='comments', verbose_name='Пост')\n    author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='comments', verbose_name='Автор')\n    parent = models.ForeignKey('self', on_delete=models.CASCADE, null=True, blank=True, related_name='replies', verbose_name='Родительский комментарий')\n    content = models.TextField(verbose_name='Текст комментария')\n    is_active = models.BooleanField(default=True, verbose_name='Активен')\n    created_at = models.DateTimeField(auto_now_add=True, verbose_name='Дата создания')\n    updated_at = models.DateTimeField(auto_now=True, verbose_name='Дата обновления')\n    class Meta:\n        db_table = 'comments'",
+        "detail": "backend.apps.comments.models",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthorOrReadOnly",
+        "kind": 6,
+        "importPath": "backend.apps.comments.permissions",
+        "description": "backend.apps.comments.permissions",
+        "peekOfCode": "class IsAuthorOrReadOnly(permissions.BasePermission):\n    \"\"\"\n    Разрешение, позволяющее редактировать комментарий только автору.\n    \"\"\"\n    def has_object_permission(self, request, view, obj):\n        # Разрешения на чтение разрешены для любого запроса,\n        if request.method in permissions.SAFE_METHODS:\n            return True\n        # Разрешения на запись разрешены только автору комментария.\n        return obj.author == request.user",
+        "detail": "backend.apps.comments.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "CommentSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.comments.serializers",
+        "description": "backend.apps.comments.serializers",
+        "peekOfCode": "class CommentSerializer(serializers.ModelSerializer):\n    \"\"\"Базовый сериализатор для комментариев\"\"\"\n    author_info = serializers.SerializerMethodField()\n    replies_count = serializers.ReadOnlyField()\n    is_reply = serializers.ReadOnlyField()\n    class Meta:\n        model = Comment\n        fields = [\n            'id', 'content', 'author', 'author_info', 'parent',\n            'is_active', 'replies_count', 'is_reply',",
+        "detail": "backend.apps.comments.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CommentCreateSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.comments.serializers",
+        "description": "backend.apps.comments.serializers",
+        "peekOfCode": "class CommentCreateSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для создания комментариев\"\"\"\n    class Meta:\n        model = Comment\n        fields = ['post', 'parent', 'content']\n    def validate_post(self, value):\n        if not Post.objects.filter(id=value.id, status='published').exists():\n            raise serializers.ValidationError('Post not found')\n        return value\n    def validate_parent(self, value):",
+        "detail": "backend.apps.comments.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CommentUpdateSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.comments.serializers",
+        "description": "backend.apps.comments.serializers",
+        "peekOfCode": "class CommentUpdateSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для обновления комментариев\"\"\"\n    class Meta:\n        model = Comment\n        fields = ['content']\nclass CommentDetailSerializer(CommentSerializer):\n    \"\"\"Детальный сериализатор комментария с ответами\"\"\"\n    replies = serializers.SerializerMethodField()\n    class Meta(CommentSerializer.Meta):\n        fields = CommentSerializer.Meta.fields + ['replies']",
+        "detail": "backend.apps.comments.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CommentDetailSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.comments.serializers",
+        "description": "backend.apps.comments.serializers",
+        "peekOfCode": "class CommentDetailSerializer(CommentSerializer):\n    \"\"\"Детальный сериализатор комментария с ответами\"\"\"\n    replies = serializers.SerializerMethodField()\n    class Meta(CommentSerializer.Meta):\n        fields = CommentSerializer.Meta.fields + ['replies']\n    def get_replies(self, obj):\n        if obj.parent is None:  # Показываем ответы только для основных комментариев\n            replies = obj.replies.filter(is_active=True).order_by('created_at')\n            return CommentSerializer(replies, many=True, context=self.context).data\n        return []",
+        "detail": "backend.apps.comments.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backend.apps.comments.urls",
+        "description": "backend.apps.comments.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", views.CommentListCreateView.as_view(), name=\"comment-list\"),\n    path(\"<int:pk>/\", views.CommentDetailView.as_view(), name=\"comment-detail\"),\n    path(\"my-comments/\", views.MyCommentsView.as_view(), name=\"my-comments\"),\n    path(\"post/<int:pk>/\", views.post_comments, name=\"post-comments\"),\n    path(\"<int:comment_id>/replies/\", views.comment_replies, name=\"comment-replies\"),\n]",
+        "detail": "backend.apps.comments.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CommentListCreateView",
+        "kind": 6,
+        "importPath": "backend.apps.comments.views",
+        "description": "backend.apps.comments.views",
+        "peekOfCode": "class CommentListCreateView(generics.ListCreateAPIView):\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    filter_backends = [filters.SearchFilter, filters.OrderingFilter]\n    filterset_fields = ['post', 'author', 'parent']\n    search_fields = ['content']\n    ordering_fields = ['created_at', 'updated_at']\n    ordering = ['-created_at']\n    def get_queryset(self):\n        return Comment.objects.filter(is_active=True).select_related(\n            'post', ",
+        "detail": "backend.apps.comments.views",
+        "documentation": {}
+    },
+    {
+        "label": "CommentDetailView",
+        "kind": 6,
+        "importPath": "backend.apps.comments.views",
+        "description": "backend.apps.comments.views",
+        "peekOfCode": "class CommentDetailView(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Comment.objects.filter(is_active=True).select_related('post', 'author')\n    serializer_class = CommentDetailSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def get_serializer_class(self):\n        if self.request.method in ['PUT', 'PATCH']:\n            return CommentUpdateSerializer\n        return CommentDetailSerializer\n    def perform_destroy(self, instance):\n        \"\"\"Магкое удаление - помечаем как неактивный \"\"\"",
+        "detail": "backend.apps.comments.views",
+        "documentation": {}
+    },
+    {
+        "label": "MyCommentsView",
+        "kind": 6,
+        "importPath": "backend.apps.comments.views",
+        "description": "backend.apps.comments.views",
+        "peekOfCode": "class MyCommentsView(generics.ListCreateAPIView):\n    serializer_class = CommentSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    filter_backends = [filters.SearchFilter, filters.OrderingFilter]\n    filterset_fields = ['post', 'author', 'is_active']\n    search_fields = ['content']\n    ordering_fields = ['created_at', 'updated_at']\n    ordering = ['-created_at']\n    def get_queryset(self):\n        return Comment.objects.filter(is_active=True).select_related('post', 'parent')",
+        "detail": "backend.apps.comments.views",
+        "documentation": {}
+    },
+    {
+        "label": "post_comments",
+        "kind": 2,
+        "importPath": "backend.apps.comments.views",
+        "description": "backend.apps.comments.views",
+        "peekOfCode": "def post_comments(request, post_id):\n        \"\"\"Комментарии к определенному посту \"\"\"\n        post = get_object_or_404(Post, id=post_id, status='published')\n        \"\"\" Только основные комментарии \"\"\"\n        comments = Comment.objects.filter(\n            post=post, \n            parent=None, \n            is_active=True\n        ).select_related('author').prefetch_related(\n            'replies__author'",
+        "detail": "backend.apps.comments.views",
+        "documentation": {}
+    },
+    {
+        "label": "comment_replies",
+        "kind": 2,
+        "importPath": "backend.apps.comments.views",
+        "description": "backend.apps.comments.views",
+        "peekOfCode": "def comment_replies(request, comment_id):\n        \"\"\"Ответы на комментарии \"\"\"\n        parent_comment = get_object_or_404(Comment, id=comment_id, is_active=True)\n        replies = Comment.objects.filter(\n            parent=parent_comment, \n            is_active=True\n        ).select_related('author').order_by('-created_at')\n        serializer = CommentSerializer(replies, many=True, context = {'request': request})\n        return Response({\n            'parent_comment': CommentSerializer(parent_comment, context = {'request': request}).data,",
+        "detail": "backend.apps.comments.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.migrations.0001_initial",
+        "description": "backend.apps.frontpage.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "backend.apps.frontpage.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.admin",
+        "description": "backend.apps.frontpage.admin",
+        "peekOfCode": "class CategoryAdmin(admin.ModelAdmin):\n    list_display = ('name', 'slug', 'posts_count', 'created_at')\n    list_filter = ('created_at',)\n    search_fields = ('name', 'description')\n    prepopulated_fields = {'slug': ('name',)}\n    readonly_fields = ('created_at',)\n    def posts_count(self, obj):\n        return obj.posts.count()\n    posts_count.short_description = 'Счетчик постов'\n@admin.register(Post)",
+        "detail": "backend.apps.frontpage.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PostAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.admin",
+        "description": "backend.apps.frontpage.admin",
+        "peekOfCode": "class PostAdmin(admin.ModelAdmin):\n    list_display = (\n        'title', 'author', 'category', 'status',\n        'views_count', 'created_at'\n    )\n    list_filter = ('status', 'category', 'created_at', 'updated_at')\n    search_fields = ('title', 'content', 'author__username')\n    prepopulated_fields = {'slug': ('title',)}\n    readonly_fields = ('created_at', 'updated_at', 'views_count')\n    raw_id_fields = ('author',)",
+        "detail": "backend.apps.frontpage.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.apps",
+        "description": "backend.apps.frontpage.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'apps.frontpage'\n    verbose_name = \"Главная страница\"",
+        "detail": "backend.apps.frontpage.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.models",
+        "description": "backend.apps.frontpage.models",
+        "peekOfCode": "class Category(models.Model):\n    name = models.CharField(max_length=255, verbose_name='Название категории')\n    slug = models.SlugField(max_length=255, unique=True, blank=True, verbose_name='URL')\n    description = models.TextField(blank=True, verbose_name='Описание')\n    created_at = models.DateTimeField(auto_now_add=True, verbose_name='Дата создания')\n    class Meta:\n        db_table = 'categories'\n        verbose_name = 'Категория'\n        verbose_name_plural = 'Категории'\n        ordering = ['name']",
+        "detail": "backend.apps.frontpage.models",
+        "documentation": {}
+    },
+    {
+        "label": "PostManager",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.models",
+        "description": "backend.apps.frontpage.models",
+        "peekOfCode": "class PostManager(models.Manager):\n    def published(self):\n        return self.filter(status='published')\n    def pinned_posts(self):\n        \"\"\" Закрепленные посты. \"\"\"\n        return self.filter(\n            pin_info__isnull=False,\n            pin_info__user__subscription__status='active',\n            pin_info__user__subscription__end_date__gt=models.functions.Now(),\n            status='published'",
+        "detail": "backend.apps.frontpage.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.models",
+        "description": "backend.apps.frontpage.models",
+        "peekOfCode": "class Post(models.Model):\n    \"\"\" Модель поста блога с поддержкой закрепления. \"\"\"\n    STATUS = (\n        ('draft', 'Черновик'),\n        ('published', 'Опубликован')\n    )\n    title = models.CharField(max_length=255, verbose_name='Название поста')\n    slug = models.SlugField(max_length=255, unique=True, blank=True, verbose_name='URL')\n    content = models.TextField(verbose_name='Контент')   \n    image = models.ImageField(upload_to='posts/', blank=True, null=True, verbose_name='Изображение')",
+        "detail": "backend.apps.frontpage.models",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthorOrReadOnly",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.permissions",
+        "description": "backend.apps.frontpage.permissions",
+        "peekOfCode": "class IsAuthorOrReadOnly(permissions.BasePermission):\n    \"\"\"\n    Пользовательское разрешение, позволяющее только автору объекта редактировать его.\n    \"\"\"\n    def has_object_permission(self, request, view, obj):\n        # Разрешения на чтение разрешены для любого запроса,\n        # поэтому мы всегда разрешаем запросы GET, HEAD или OPTIONS.\n        if request.method in permissions.SAFE_METHODS:\n            return True\n        # Разрешения на запись разрешены только автору поста.",
+        "detail": "backend.apps.frontpage.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "CategorySerializer",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.serializers",
+        "description": "backend.apps.frontpage.serializers",
+        "peekOfCode": "class CategorySerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для категорий\"\"\"\n    posts_count = serializers.SerializerMethodField()\n    class Meta:\n        model = Category\n        fields = ['id', 'name', 'slug', 'description', 'posts_count', 'created_at']\n        read_only_fields = ['slug', 'created_at']\n    def get_posts_count(self, obj):\n        return obj.posts.filter(status='published').count()\n    def create(self, validated_data):",
+        "detail": "backend.apps.frontpage.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PostListSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.serializers",
+        "description": "backend.apps.frontpage.serializers",
+        "peekOfCode": "class PostListSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для списка постов\"\"\"\n    author = serializers.StringRelatedField()\n    category = serializers.StringRelatedField()\n    comments_count = serializers.ReadOnlyField()\n    is_pinned = serializers.ReadOnlyField()\n    pinned_info = serializers.SerializerMethodField()\n    class Meta:\n        model = Post\n        fields = [",
+        "detail": "backend.apps.frontpage.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PostDetailSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.serializers",
+        "description": "backend.apps.frontpage.serializers",
+        "peekOfCode": "class PostDetailSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для детального просмотра поста\"\"\"\n    author_info = serializers.SerializerMethodField()\n    category_info = serializers.SerializerMethodField()\n    comments_count = serializers.ReadOnlyField()\n    is_pinned = serializers.ReadOnlyField()\n    pinned_info = serializers.SerializerMethodField()\n    can_pin = serializers.SerializerMethodField()\n    class Meta:\n        model = Post",
+        "detail": "backend.apps.frontpage.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PostCreateUpdateSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.serializers",
+        "description": "backend.apps.frontpage.serializers",
+        "peekOfCode": "class PostCreateUpdateSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для создания и обновления постов\"\"\"\n    class Meta:\n        model = Post\n        fields = ['title', 'content', 'image', 'category', 'status']\n    def create(self, validated_data):\n        validated_data['author'] = self.context['request'].user\n        validated_data['slug'] = slugify(validated_data['title'])\n        return super().create(validated_data)\n    def update(self, instance, validated_data):",
+        "detail": "backend.apps.frontpage.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backend.apps.frontpage.urls",
+        "description": "backend.apps.frontpage.urls",
+        "peekOfCode": "urlpatterns = [\n    # Категории\n    path(\"categories/\", views.CategoryListCreateView.as_view(), name=\"category-list\"),\n    path(\"categories/<slug:slug>/\", views.CategoryDetailView.as_view(), name=\"category-detail\"),\n    path(\"categories/<slug:category_slug>/posts/\", views.post_by_category, name=\"posts-by-category\"),\n    # Посты\n    path(\"\", views.PostListCreateView.as_view(), name=\"post-list\"),\n    path(\"my-posts/\", views.MyPostsView.as_view(), name=\"my-posts\"),\n    path(\"popular/\", views.popular_posts, name=\"popular-posts\"),\n    path(\"pinned/\", views.pinned_posts_only, name=\"pinned-posts-only\"),",
+        "detail": "backend.apps.frontpage.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryListCreateView",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.views",
+        "description": "backend.apps.frontpage.views",
+        "peekOfCode": "class CategoryListCreateView(generics.ListCreateAPIView):\n    \"\"\"API endpoint для категорий\"\"\"\n    queryset = Category.objects.all()\n    serializer_class = CategorySerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    filter_backends = [filters.SearchFilter, filters.OrderingFilter]\n    search_fields = ['name', 'description']\n    ordering_fields = ['name', 'created_at']\n    ordering = ['name']\nclass CategoryDetailView(generics.RetrieveUpdateDestroyAPIView):",
+        "detail": "backend.apps.frontpage.views",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryDetailView",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.views",
+        "description": "backend.apps.frontpage.views",
+        "peekOfCode": "class CategoryDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"API endpoint для конкретной категории\"\"\"\n    queryset = Category.objects.all()\n    serializer_class = CategorySerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    lookup_field = 'slug'\nclass PostListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    API endpoint для постов c поддержкой закрепленных постов.\n    Закрепленные посты отображаются первыми в порядке закрепления.",
+        "detail": "backend.apps.frontpage.views",
+        "documentation": {}
+    },
+    {
+        "label": "PostListCreateView",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.views",
+        "description": "backend.apps.frontpage.views",
+        "peekOfCode": "class PostListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    API endpoint для постов c поддержкой закрепленных постов.\n    Закрепленные посты отображаются первыми в порядке закрепления.\n    \"\"\"\n    serializer_class = PostListSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    filter_backends = [DjangoFilterBackend, filters.SearchFilter, filters.OrderingFilter]\n    filterset_fields = ['category', 'author', 'status']\n    search_fields = ['title', 'content']",
+        "detail": "backend.apps.frontpage.views",
+        "documentation": {}
+    },
+    {
+        "label": "PostDetailView",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.views",
+        "description": "backend.apps.frontpage.views",
+        "peekOfCode": "class PostDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"API endpoint для конкретного поста\"\"\"\n    queryset = Post.objects.select_related('author', 'category')\n    serializer_class = PostDetailSerializer\n    permission_classes = [IsAuthorOrReadOnly]\n    lookup_field = 'slug'\n    def get_serializer_class(self):\n        if self.request.method in ['PUT', 'PATCH']:\n            return PostCreateUpdateSerializer\n        return PostDetailSerializer",
+        "detail": "backend.apps.frontpage.views",
+        "documentation": {}
+    },
+    {
+        "label": "MyPostsView",
+        "kind": 6,
+        "importPath": "backend.apps.frontpage.views",
+        "description": "backend.apps.frontpage.views",
+        "peekOfCode": "class MyPostsView(generics.ListAPIView):\n    \"\"\"API endpoint для постов текущего пользователя\"\"\"\n    serializer_class = PostListSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    filter_backends = [DjangoFilterBackend, filters.SearchFilter, filters.OrderingFilter]\n    filterset_fields = ['category', 'status']\n    search_fields = ['title', 'content']\n    ordering_fields = ['created_at', 'updated_at', 'views_count', 'title']\n    ordering = ['-created_at']\n    def get_queryset(self):",
+        "detail": "backend.apps.frontpage.views",
+        "documentation": {}
+    },
+    {
+        "label": "post_by_category",
+        "kind": 2,
+        "importPath": "backend.apps.frontpage.views",
+        "description": "backend.apps.frontpage.views",
+        "peekOfCode": "def post_by_category(request, category_slug):\n    \"\"\"Посты определенной категории\"\"\"\n    category = get_object_or_404(Category, slug=category_slug)\n    # Получаем посты с учетом закрепления\n    # Используем менеджер модели для получения with_subscription_info\n    posts = Post.objects.with_subscription_info().filter(\n        category=category,\n        status='published'\n    )\n    # Сортируем с учетом закрепленных постов",
+        "detail": "backend.apps.frontpage.views",
+        "documentation": {}
+    },
+    {
+        "label": "popular_posts",
+        "kind": 2,
+        "importPath": "backend.apps.frontpage.views",
+        "description": "backend.apps.frontpage.views",
+        "peekOfCode": "def popular_posts(request):\n    \"\"\"10 самых популярных постов\"\"\"\n    posts = Post.objects.with_subscription_info().filter(\n        status='published'\n    ).order_by('-views_count')[:10]\n    serializer = PostListSerializer(\n        posts, \n        many=True, \n        context={'request': request}\n    )",
+        "detail": "backend.apps.frontpage.views",
+        "documentation": {}
+    },
+    {
+        "label": "recent_posts",
+        "kind": 2,
+        "importPath": "backend.apps.frontpage.views",
+        "description": "backend.apps.frontpage.views",
+        "peekOfCode": "def recent_posts(request):\n    \"\"\"10 последних опубликованных постов\"\"\"\n    posts = Post.objects.with_subscription_info().filter(\n        status='published'\n    ).order_by('-created_at')[:10]\n    serializer = PostListSerializer(\n        posts, \n        many=True, \n        context={'request': request}\n    )",
+        "detail": "backend.apps.frontpage.views",
+        "documentation": {}
+    },
+    {
+        "label": "pinned_posts_only",
+        "kind": 2,
+        "importPath": "backend.apps.frontpage.views",
+        "description": "backend.apps.frontpage.views",
+        "peekOfCode": "def pinned_posts_only(request):\n    \"\"\"Только закрепленные посты\"\"\"\n    posts = Post.objects.pinned_posts()\n    serializer = PostListSerializer(\n        posts,\n        many=True,\n        context={'request': request}\n    )\n    return Response({\n        'count': posts.count(),",
+        "detail": "backend.apps.frontpage.views",
+        "documentation": {}
+    },
+    {
+        "label": "featured_posts",
+        "kind": 2,
+        "importPath": "backend.apps.frontpage.views",
+        "description": "backend.apps.frontpage.views",
+        "peekOfCode": "def featured_posts(request):\n    \"\"\"\n    Рекомендуемые посты для главной страницы:\n    - Закрепленные посты (максимум 3)\n    - Популярные посты за последнюю неделю\n    \"\"\"\n    # Получаем последние 3 закрепленных поста\n    pinned_posts = Post.objects.pinned_posts()[:3]\n    # Получаем популярные посты за неделю (исключая уже закрепленные)\n    week_ago = timezone.now() - timedelta(days=7)",
+        "detail": "backend.apps.frontpage.views",
+        "documentation": {}
+    },
+    {
+        "label": "toggle_post_pin_status",
+        "kind": 2,
+        "importPath": "backend.apps.frontpage.views",
+        "description": "backend.apps.frontpage.views",
+        "peekOfCode": "def toggle_post_pin_status(request, slug):\n    \"\"\"\n    Переключает статус закрепления поста.\n    Если пост закреплен - открепляет, если не закреплен - закрепляет.\n    \"\"\"\n    post = get_object_or_404(Post, slug=slug, author=request.user, status='published')\n    # Проверяем подписку\n    if not hasattr(request.user, 'subscription') or not request.user.subscription.is_active:\n        return Response({\n            'error': 'Для закрепленных постов требуется активная подписка'",
+        "detail": "backend.apps.frontpage.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.apps.payment.migrations.0001_initial",
+        "description": "backend.apps.payment.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('subscribe', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Payment',\n            fields=[",
+        "detail": "backend.apps.payment.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentAttemptInline",
+        "kind": 6,
+        "importPath": "backend.apps.payment.admin",
+        "description": "backend.apps.payment.admin",
+        "peekOfCode": "class PaymentAttemptInline(admin.TabularInline):\n    model = PaymentAttempt\n    extra = 0\n    readonly_fields = ('stripe_charge_id', 'status', 'error_message', 'metadata', 'created_at')\n    can_delete = False\n    def has_add_permission(self, request, obj=None):\n        return False\nclass RefundInline(admin.TabularInline):\n    model = Refund\n    extra = 0",
+        "detail": "backend.apps.payment.admin",
+        "documentation": {}
+    },
+    {
+        "label": "RefundInline",
+        "kind": 6,
+        "importPath": "backend.apps.payment.admin",
+        "description": "backend.apps.payment.admin",
+        "peekOfCode": "class RefundInline(admin.TabularInline):\n    model = Refund\n    extra = 0\n    readonly_fields = ('amount', 'status', 'stripe_refund_id', 'created_at', 'processed_at')\n    fields = ('amount', 'reason', 'status', 'created_by')\n    can_delete = False\n@admin.register(Payment)\nclass PaymentAdmin(admin.ModelAdmin):\n    list_display = (\n        'id', 'user_link', 'amount_display', 'status_display', ",
+        "detail": "backend.apps.payment.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.payment.admin",
+        "description": "backend.apps.payment.admin",
+        "peekOfCode": "class PaymentAdmin(admin.ModelAdmin):\n    list_display = (\n        'id', 'user_link', 'amount_display', 'status_display', \n        'payment_method', 'subscription_link', 'created_at'\n    )\n    list_filter = ('status', 'payment_method', 'currency', 'created_at')\n    search_fields = (\n        'user__username', 'user__email', 'stripe_payment_intent_id', \n        'stripe_session_id', 'description'\n    )",
+        "detail": "backend.apps.payment.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentAttemptAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.payment.admin",
+        "description": "backend.apps.payment.admin",
+        "peekOfCode": "class PaymentAttemptAdmin(admin.ModelAdmin):\n    list_display = (\n        'payment_link', 'stripe_charge_id', 'status', 'error_message_short', 'created_at'\n    )\n    list_filter = ('status', 'created_at')\n    search_fields = ('payment__id', 'stripe_charge_id', 'error_message')\n    readonly_fields = ('payment', 'stripe_charge_id', 'status', 'error_message', 'metadata', 'created_at')\n    def payment_link(self, obj):\n        \"\"\"Ссылка на платеж\"\"\"\n        url = reverse('admin:payment_payment_change', args=[obj.payment.pk])",
+        "detail": "backend.apps.payment.admin",
+        "documentation": {}
+    },
+    {
+        "label": "RefundAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.payment.admin",
+        "description": "backend.apps.payment.admin",
+        "peekOfCode": "class RefundAdmin(admin.ModelAdmin):\n    list_display = (\n        'id', 'payment_link', 'amount_display', 'status_display', \n        'is_partial_display', 'created_by', 'created_at'\n    )\n    list_filter = ('status', 'created_at')\n    search_fields = ('payment__id', 'stripe_refund_id', 'reason')\n    readonly_fields = ('created_at', 'processed_at', 'is_partial')\n    raw_id_fields = ('payment', 'created_by')\n    fieldsets = (",
+        "detail": "backend.apps.payment.admin",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookEventAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.payment.admin",
+        "description": "backend.apps.payment.admin",
+        "peekOfCode": "class WebhookEventAdmin(admin.ModelAdmin):\n    list_display = (\n        'id', 'provider', 'event_type', 'status_display', \n        'error_message_short', 'created_at'\n    )\n    list_filter = ('provider', 'status', 'event_type', 'created_at')\n    search_fields = ('event_id', 'event_type', 'error_message')\n    readonly_fields = ('provider', 'event_id', 'event_type', 'data', 'created_at', 'processed_at')\n    fieldsets = (\n        (None, {",
+        "detail": "backend.apps.payment.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentConfig",
+        "kind": 6,
+        "importPath": "backend.apps.payment.apps",
+        "description": "backend.apps.payment.apps",
+        "peekOfCode": "class PaymentConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'apps.payment'\n    verbose_name = \"Оплата\"",
+        "detail": "backend.apps.payment.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Payment",
+        "kind": 6,
+        "importPath": "backend.apps.payment.models",
+        "description": "backend.apps.payment.models",
+        "peekOfCode": "class Payment(models.Model):\n    \"\"\" Модель оплаты \"\"\"\n    STATUS_CHOICES = (\n        (\"pending\", \"Ожидает оплаты\"),\n        (\"processeing\", \"Обработка\"),\n        (\"succeeded\", \"Успешно\"),\n        (\"failed\", \"Ошибка\"),\n        (\"cancelled\", \"Отменен\"),\n        (\"refunded\", \"Возвращен\"),\n    )",
+        "detail": "backend.apps.payment.models",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentAttempt",
+        "kind": 6,
+        "importPath": "backend.apps.payment.models",
+        "description": "backend.apps.payment.models",
+        "peekOfCode": "class PaymentAttempt(models.Model):\n    \"\"\" Попытка оплаты \"\"\"\n    payment = models.ForeignKey(Payment, on_delete=models.CASCADE, related_name='attempts', verbose_name='Попытка оплаты')\n    stripe_charge_id = models.CharField(max_length=255, null=True, blank=True, verbose_name='ID платежа Stripe')\n    status = models.CharField(max_length=20, verbose_name='Статус попытки')\n    error_message = models.TextField(blank=True, null=True, verbose_name='Сообщение об ошибке') \n    metadata = models.JSONField(default=dict, verbose_name='Метаданные')\n    created_at = models.DateTimeField(auto_now_add=True, verbose_name='Дата создания')\n    class Meta:\n        db_table = 'payment_attempt'",
+        "detail": "backend.apps.payment.models",
+        "documentation": {}
+    },
+    {
+        "label": "Refund",
+        "kind": 6,
+        "importPath": "backend.apps.payment.models",
+        "description": "backend.apps.payment.models",
+        "peekOfCode": "class Refund(models.Model):\n    STATUS_CHOICES = (\n        (\"pending\", \"Ожидает оплаты\"),\n        (\"processeing\", \"Обработка\"),\n        (\"succeeded\", \"Успешно\"),\n        (\"failed\", \"Ошибка\"),\n        (\"cancelled\", \"Отменен\"),\n        (\"refunded\", \"Возвращен\"),\n    )\n    payment = models.ForeignKey(Payment, on_delete=models.CASCADE, related_name='refunds', verbose_name='Оплата')",
+        "detail": "backend.apps.payment.models",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookEvent",
+        "kind": 6,
+        "importPath": "backend.apps.payment.models",
+        "description": "backend.apps.payment.models",
+        "peekOfCode": "class WebhookEvent(models.Model):\n    PROVIDER_CHOICES = (\n        (\"stripe\", \"Stripe\"),\n        (\"paypal\", \"PayPal\"),\n    )\n    STATUS_CHOICES = (\n        (\"pending\", \"Ожидает оплаты\"),\n        (\"processed\", \"Обработан\"),\n        (\"failed\", \"Ошибка\"),\n        (\"ignored\", \"Игнорирован\"),",
+        "detail": "backend.apps.payment.models",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.payment.serializers",
+        "description": "backend.apps.payment.serializers",
+        "peekOfCode": "class PaymentSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для платежей\"\"\"\n    user_info = serializers.SerializerMethodField()\n    subscription_info = serializers.SerializerMethodField()\n    is_successful = serializers.ReadOnlyField()\n    is_pending = serializers.ReadOnlyField()\n    can_be_refunded = serializers.ReadOnlyField()\n    class Meta:\n        model = Payment\n        fields = [",
+        "detail": "backend.apps.payment.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentCreateSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.payment.serializers",
+        "description": "backend.apps.payment.serializers",
+        "peekOfCode": "class PaymentCreateSerializer(serializers.Serializer):\n    \"\"\"Сериализатор для создания платежа\"\"\"\n    subscription_plan_id = serializers.IntegerField()\n    payment_method = serializers.ChoiceField(\n        choices=Payment.PAYMENT_METHOD_CHOICES,\n        default='stripe'\n    )\n    success_url = serializers.URLField(required=False)\n    cancel_url = serializers.URLField(required=False)\n    def validate_subscription_plan_id(self, value):",
+        "detail": "backend.apps.payment.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentAttemptSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.payment.serializers",
+        "description": "backend.apps.payment.serializers",
+        "peekOfCode": "class PaymentAttemptSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для попыток платежа\"\"\"\n    class Meta:\n        model = PaymentAttempt\n        fields = [\n            'id', 'stripe_charge_id', 'status', 'error_message',\n            'metadata', 'created_at'\n        ]\n        read_only_fields = ['id', 'created_at']\nclass RefundSerializer(serializers.ModelSerializer):",
+        "detail": "backend.apps.payment.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RefundSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.payment.serializers",
+        "description": "backend.apps.payment.serializers",
+        "peekOfCode": "class RefundSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для возвратов\"\"\"\n    payment_info = serializers.SerializerMethodField()\n    created_by_info = serializers.SerializerMethodField()\n    is_partial = serializers.ReadOnlyField()\n    class Meta:\n        model = Refund\n        fields = [\n            'id', 'payment', 'payment_info', 'amount', 'reason',\n            'status', 'is_partial', 'created_by', 'created_by_info',",
+        "detail": "backend.apps.payment.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RefundCreateSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.payment.serializers",
+        "description": "backend.apps.payment.serializers",
+        "peekOfCode": "class RefundCreateSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для создания возврата\"\"\"\n    class Meta:\n        model = Refund\n        fields = ['amount', 'reason']\n    def validate_amount(self, value):\n        \"\"\"Валидация суммы возврата\"\"\"\n        if value <= 0:\n            raise serializers.ValidationError(\"Сумма возврата должна быть положительной.\")\n        return value",
+        "detail": "backend.apps.payment.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookEventSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.payment.serializers",
+        "description": "backend.apps.payment.serializers",
+        "peekOfCode": "class WebhookEventSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для webhook событий\"\"\"\n    class Meta:\n        model = WebhookEvent\n        fields = [\n            'id', 'provider', 'event_id', 'event_type', 'status',\n            'processed_at', 'error_message', 'created_at'\n        ]\n        read_only_fields = ['id', 'created_at']\nclass StripeCheckoutSessionSerializer(serializers.Serializer):",
+        "detail": "backend.apps.payment.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StripeCheckoutSessionSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.payment.serializers",
+        "description": "backend.apps.payment.serializers",
+        "peekOfCode": "class StripeCheckoutSessionSerializer(serializers.Serializer):\n    \"\"\"Сериализатор для создания Stripe Checkout сессии\"\"\"\n    checkout_url = serializers.URLField(read_only=True)\n    session_id = serializers.CharField(read_only=True)\n    payment_id = serializers.IntegerField(read_only=True)\nclass PaymentStatusSerializer(serializers.Serializer):\n    \"\"\"Сериализатор для статуса платежа\"\"\"\n    payment_id = serializers.IntegerField()\n    status = serializers.CharField()\n    message = serializers.CharField()",
+        "detail": "backend.apps.payment.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentStatusSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.payment.serializers",
+        "description": "backend.apps.payment.serializers",
+        "peekOfCode": "class PaymentStatusSerializer(serializers.Serializer):\n    \"\"\"Сериализатор для статуса платежа\"\"\"\n    payment_id = serializers.IntegerField()\n    status = serializers.CharField()\n    message = serializers.CharField()\n    subscription_activated = serializers.BooleanField(default=False)",
+        "detail": "backend.apps.payment.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StripeService",
+        "kind": 6,
+        "importPath": "backend.apps.payment.services",
+        "description": "backend.apps.payment.services",
+        "peekOfCode": "class StripeService:\n    \"\"\"Сервис для работы с Stripe\"\"\"\n    @staticmethod\n    def create_customer(user) -> Optional[str]:\n        \"\"\"Создает клиента в Stripe\"\"\"\n        try:\n            customer = stripe.Customer.create(\n                email=user.email,\n                name=user.get_full_name() or user.username,\n                metadata={",
+        "detail": "backend.apps.payment.services",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentService",
+        "kind": 6,
+        "importPath": "backend.apps.payment.services",
+        "description": "backend.apps.payment.services",
+        "peekOfCode": "class PaymentService:\n    \"\"\"Основной сервис для работы с платежами\"\"\"\n    @staticmethod\n    def create_subscription_payment(user, plan: SubscriptionPlan) -> Tuple[Payment, Subscription]:\n        \"\"\"Создает платеж для подписки\"\"\"\n        # Создаем подписку\n        subscription = Subscription.objects.create(\n            user=user,\n            plan=plan,\n            status='pending',",
+        "detail": "backend.apps.payment.services",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookService",
+        "kind": 6,
+        "importPath": "backend.apps.payment.services",
+        "description": "backend.apps.payment.services",
+        "peekOfCode": "class WebhookService:\n    \"\"\"Сервис для обработки webhook событий\"\"\"\n    @staticmethod\n    def process_stripe_webhook(event_data: Dict) -> bool:\n        \"\"\"Обрабатывает Stripe webhook\"\"\"\n        try:\n            event_id = event_data.get('id')\n            event_type = event_data.get('type')\n            # Проверяем, не обрабатывали ли мы уже это событие\n            if WebhookEvent.objects.filter(event_id=event_id).exists():",
+        "detail": "backend.apps.payment.services",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "backend.apps.payment.services",
+        "description": "backend.apps.payment.services",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Настройка Stripe\nstripe.api_key = settings.STRIPE_SECRET_KEY\nclass StripeService:\n    \"\"\"Сервис для работы с Stripe\"\"\"\n    @staticmethod\n    def create_customer(user) -> Optional[str]:\n        \"\"\"Создает клиента в Stripe\"\"\"\n        try:\n            customer = stripe.Customer.create(",
+        "detail": "backend.apps.payment.services",
+        "documentation": {}
+    },
+    {
+        "label": "stripe.api_key",
+        "kind": 5,
+        "importPath": "backend.apps.payment.services",
+        "description": "backend.apps.payment.services",
+        "peekOfCode": "stripe.api_key = settings.STRIPE_SECRET_KEY\nclass StripeService:\n    \"\"\"Сервис для работы с Stripe\"\"\"\n    @staticmethod\n    def create_customer(user) -> Optional[str]:\n        \"\"\"Создает клиента в Stripe\"\"\"\n        try:\n            customer = stripe.Customer.create(\n                email=user.email,\n                name=user.get_full_name() or user.username,",
+        "detail": "backend.apps.payment.services",
+        "documentation": {}
+    },
+    {
+        "label": "payment_pre_save",
+        "kind": 2,
+        "importPath": "backend.apps.payment.signals",
+        "description": "backend.apps.payment.signals",
+        "peekOfCode": "def payment_pre_save(sender, instance, **kwargs):\n    if instance.pk:\n        try:\n            previous = Payment.objects.get(pk=instance.pk)\n            instance._previous.status = instance.status\n        except Payment.DoesNotExist:\n            instance._previous.status = None\n@receiver(post_save, sender=Payment)\ndef payment_post_save(sender, instance, created, **kwargs):\n    if not created and hasattr(instance, '_previous_status'):",
+        "detail": "backend.apps.payment.signals",
+        "documentation": {}
+    },
+    {
+        "label": "payment_post_save",
+        "kind": 2,
+        "importPath": "backend.apps.payment.signals",
+        "description": "backend.apps.payment.signals",
+        "peekOfCode": "def payment_post_save(sender, instance, created, **kwargs):\n    if not created and hasattr(instance, '_previous_status'):\n        if (instance._previous_status in ['pending', 'processing'] and \n            instance.status == 'succeeded'):\n            PaymentService.process_successful_payment(instance)\n        elif (instance._previous_status in ['pending', 'processing'] and \n            instance.status == 'failed'):\n            PaymentService.process_failed_payment(instance)",
+        "detail": "backend.apps.payment.signals",
+        "documentation": {}
+    },
+    {
+        "label": "cleanup_old_payments",
+        "kind": 2,
+        "importPath": "backend.apps.payment.tasks",
+        "description": "backend.apps.payment.tasks",
+        "peekOfCode": "def cleanup_old_payments():\n    \"\"\" Очистка старых платежей \"\"\" \n    cutoff_date = timezone.now() - timedelta(days=90)  # 90 дней\n    old_payments = Payment.objects.filter(\n        created_at__lt=cutoff_date,\n        status__in=['failed', 'canceled'])\n    delete_payments, _ = old_payments.delete()\n    return {'delete_payments': delete_payments}\n@shared_task\ndef cleanup_old__webhook_events():",
+        "detail": "backend.apps.payment.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "cleanup_old__webhook_events",
+        "kind": 2,
+        "importPath": "backend.apps.payment.tasks",
+        "description": "backend.apps.payment.tasks",
+        "peekOfCode": "def cleanup_old__webhook_events():\n    \"\"\" Очистка старых платежей \"\"\" \n    cutoff_date = timezone.now() - timedelta(days=90)  # 90 дней\n    old_events = WebhookEvent.objects.filter(\n        created_at__lt=cutoff_date,\n        status__in=['processed', 'ignored'])\n    delete_events, _ = old_events.delete()\n    return {'deleted_webhook_events': delete_events}\n@shared_task\ndef retry_failed_webhook_events():  # sourcery skip: use-named-expression",
+        "detail": "backend.apps.payment.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "retry_failed_webhook_events",
+        "kind": 2,
+        "importPath": "backend.apps.payment.tasks",
+        "description": "backend.apps.payment.tasks",
+        "peekOfCode": "def retry_failed_webhook_events():  # sourcery skip: use-named-expression\n    \"\"\" Очистка старых платежей \"\"\" \n    retry_cutoff = timezone.now() - timedelta(days=90)  # 90 дней\n    failed_events = WebhookEvent.objects.filter(\n        status='failed',\n        created_at__gte=retry_cutoff,\n    )[:50]\n    processed_count = 0\n    for event in failed_events:\n        success = WebhookService.process_stripe_webhook(event.data)   ",
+        "detail": "backend.apps.payment.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backend.apps.payment.urls",
+        "description": "backend.apps.payment.urls",
+        "peekOfCode": "urlpatterns = [\n    # Платежи пользователя\n    path('payments/', views.PaymentListView.as_view(), name='payment-list'),\n    path('payments/<int:pk>/', views.PaymentDetailView.as_view(), name='payment-detail'),\n    path('payments/<int:payment_id>/status/', views.payment_status, name='payment-status'),\n    path('payments/<int:payment_id>/cancel/', views.cancel_payment, name='cancel-payment'),\n    path('payments/<int:payment_id>/retry/', views.retry_payment, name='retry-payment'),\n    path('payments/history/', views.user_payment_history, name='user-payment-history'),\n    # Создание checkout сессии\n    path('create-checkout-session/', views.create_checkout_session, name='create-checkout-session'),",
+        "detail": "backend.apps.payment.urls",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentListView",
+        "kind": 6,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "class PaymentListView(generics.ListAPIView):\n    \"\"\"Список платежей пользователя\"\"\"\n    serializer_class = PaymentSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def get_queryset(self):\n        \"\"\"Возвращает платежи текущего пользователя\"\"\"\n        return Payment.objects.filter(\n            user=self.request.user\n        ).select_related('subscription', 'subscription__plan').order_by('-created_at')\nclass PaymentDetailView(generics.RetrieveAPIView):",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentDetailView",
+        "kind": 6,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "class PaymentDetailView(generics.RetrieveAPIView):\n    \"\"\"Детальная информация о платеже\"\"\"\n    serializer_class = PaymentSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def get_queryset(self):\n        \"\"\"Возвращает платежи текущего пользователя\"\"\"\n        return Payment.objects.filter(\n            user=self.request.user\n        ).select_related('subscription', 'subscription__plan')\n@api_view(['POST'])",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "RefundListView",
+        "kind": 6,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "class RefundListView(generics.ListAPIView):\n    \"\"\"Список возвратов для администраторов\"\"\"\n    serializer_class = RefundSerializer\n    permission_classes = [permissions.IsAdminUser]\n    def get_queryset(self):\n        return Refund.objects.all().select_related(\n            'payment', 'payment__user', 'created_by'\n        ).order_by('-created_at')\nclass RefundDetailView(generics.RetrieveAPIView):\n    \"\"\"Детальная информация о возврате\"\"\"",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "RefundDetailView",
+        "kind": 6,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "class RefundDetailView(generics.RetrieveAPIView):\n    \"\"\"Детальная информация о возврате\"\"\"\n    serializer_class = RefundSerializer\n    permission_classes = [permissions.IsAdminUser]\n    queryset = Refund.objects.all().select_related(\n        'payment', 'payment__user', 'created_by'\n    )\n@api_view(['POST'])\n@permission_classes([permissions.IsAdminUser])\ndef create_refund(request, payment_id):",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_checkout_session",
+        "kind": 2,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "def create_checkout_session(request):\n    \"\"\"Создает Stripe Checkout сессию для оплаты подписки\"\"\"\n    serializer = PaymentCreateSerializer(data=request.data, context={'request': request})\n    if serializer.is_valid():\n        try:\n            with transaction.atomic():\n                plan_id = serializer.validated_data['subscription_plan_id']\n                plan = get_object_or_404(SubscriptionPlan, id=plan_id, is_active=True)\n                # Создаем платеж и подписку\n                payment, subscription = PaymentService.create_subscription_payment(",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "payment_status",
+        "kind": 2,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "def payment_status(request, payment_id):\n    \"\"\"Проверяет статус платежа\"\"\"\n    try:\n        payment = get_object_or_404(\n            Payment, \n            id=payment_id, \n            user=request.user\n        )\n        # Если есть session_id, проверяем статус в Stripe\n        if payment.stripe_session_id and payment.status in ['pending', 'processing']:",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "cancel_payment",
+        "kind": 2,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "def cancel_payment(request, payment_id):\n    \"\"\"Отменяет платеж\"\"\"\n    try:\n        payment = get_object_or_404(\n            Payment, \n            id=payment_id, \n            user=request.user\n        )\n        if not payment.is_pending:\n            return Response({",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_refund",
+        "kind": 2,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "def create_refund(request, payment_id):\n    \"\"\"Создает возврат для платежа\"\"\"\n    try:\n        payment = get_object_or_404(Payment, id=payment_id)\n        if not payment.can_be_refunded:\n            return Response({\n                'error': 'Этот платеж нельзя вернуть'\n            }, status=status.HTTP_400_BAD_REQUEST)\n        serializer = RefundCreateSerializer(\n            data=request.data,",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "stripe_webhook",
+        "kind": 2,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "def stripe_webhook(request):\n    \"\"\"Webhook endpoint для Stripe\"\"\"\n    payload = request.body\n    sig_header = request.META.get('HTTP_STRIPE_SIGNATURE')\n    try:\n        # Верифицируем webhook\n        event = stripe.Webhook.construct_event(\n            payload, sig_header, settings.STRIPE_WEBHOOK_SECRET\n        )\n    except ValueError:",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "payment_analytics",
+        "kind": 2,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "def payment_analytics(request):\n    \"\"\"Аналитика по платежам для администраторов\"\"\"\n    from django.db.models import Count, Sum, Avg\n    from django.utils import timezone\n    from datetime import timedelta\n    # Общая статистика\n    total_payments = Payment.objects.count()\n    successful_payments = Payment.objects.filter(status='succeeded').count()\n    total_revenue = Payment.objects.filter(\n        status='succeeded'",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "user_payment_history",
+        "kind": 2,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "def user_payment_history(request):\n    \"\"\"История платежей пользователя\"\"\"\n    payments = Payment.objects.filter(\n        user=request.user\n    ).select_related('subscription', 'subscription__plan').order_by('-created_at')\n    serializer = PaymentSerializer(payments, many=True)\n    return Response({\n        'count': payments.count(),\n        'results': serializer.data\n    })",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "retry_payment",
+        "kind": 2,
+        "importPath": "backend.apps.payment.views",
+        "description": "backend.apps.payment.views",
+        "peekOfCode": "def retry_payment(request, payment_id):\n    \"\"\"Повторная попытка оплаты\"\"\"\n    try:\n        payment = get_object_or_404(\n            Payment, \n            id=payment_id, \n            user=request.user,\n            status='failed'\n        )\n        # Создаем новую сессию для повторной оплаты",
+        "detail": "backend.apps.payment.views",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.management.commands.create_subscription_product",
+        "description": "backend.apps.subscribe.management.commands.create_subscription_product",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Создать планы подписки по умолчанию'\n    def handle(self, *args, **options):\n        # Создаем базовый план подписки\n        plan, created = SubscriptionPlan.objects.get_or_create(\n            name='Premium ежемесячно',\n            defaults={\n                'price': 12.00,\n                'duration_days': 30,\n                'stripe_price_id': 'price_premium_monthly',  # Замените на реальный ID из Stripe",
+        "detail": "backend.apps.subscribe.management.commands.create_subscription_product",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.management.commands.fix_stripe_intetgration",
+        "description": "backend.apps.subscribe.management.commands.fix_stripe_intetgration",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Исправление интеграции Stripe, создав реальные продукты и цены'\n    def add_arguments(self, parser):\n        parser.add_argument(\n            '--force',\n            action='store_true',\n            help='Принудительно пересоздать даже если существует stripe_price_id',\n        )\n    def handle(self, *args, **options):\n        force = options['force']",
+        "detail": "backend.apps.subscribe.management.commands.fix_stripe_intetgration",
+        "documentation": {}
+    },
+    {
+        "label": "stripe.api_key",
+        "kind": 5,
+        "importPath": "backend.apps.subscribe.management.commands.fix_stripe_intetgration",
+        "description": "backend.apps.subscribe.management.commands.fix_stripe_intetgration",
+        "peekOfCode": "stripe.api_key = settings.STRIPE_SECRET_KEY\nclass Command(BaseCommand):\n    help = 'Исправление интеграции Stripe, создав реальные продукты и цены'\n    def add_arguments(self, parser):\n        parser.add_argument(\n            '--force',\n            action='store_true',\n            help='Принудительно пересоздать даже если существует stripe_price_id',\n        )\n    def handle(self, *args, **options):",
+        "detail": "backend.apps.subscribe.management.commands.fix_stripe_intetgration",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.migrations.0001_initial",
+        "description": "backend.apps.subscribe.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('frontpage', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='SubscriptionPlan',\n            fields=[",
+        "detail": "backend.apps.subscribe.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionPlanAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.admin",
+        "description": "backend.apps.subscribe.admin",
+        "peekOfCode": "class SubscriptionPlanAdmin(admin.ModelAdmin):\n    list_display = (\n        'name', 'price', 'duration_days', 'is_active', \n        'subscriptions_count', 'created_at'\n    )\n    list_filter = ('is_active', 'created_at')\n    search_fields = ('name', 'stripe_price_id')\n    readonly_fields = ('created_at', 'updated_at')\n    fieldsets = (\n        (None, {",
+        "detail": "backend.apps.subscribe.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionHistoryInline",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.admin",
+        "description": "backend.apps.subscribe.admin",
+        "peekOfCode": "class SubscriptionHistoryInline(admin.TabularInline):\n    model = SubscriptionHistory\n    extra = 0\n    readonly_fields = ('action', 'description', 'metadata', 'created_at')\n    can_delete = False\n    def has_add_permission(self, request, obj=None):\n        return False\n@admin.register(Subscription)\nclass SubscriptionAdmin(admin.ModelAdmin):\n    list_display = (",
+        "detail": "backend.apps.subscribe.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.admin",
+        "description": "backend.apps.subscribe.admin",
+        "peekOfCode": "class SubscriptionAdmin(admin.ModelAdmin):\n    list_display = (\n        'user_link', 'plan', 'status', 'is_active_display', \n        'days_remaining_display', 'start_date', 'end_date'\n    )\n    list_filter = ('status', 'plan', 'auto_renew', 'created_at')\n    search_fields = ('user__username', 'user__email', 'plan__name')\n    readonly_fields = ('created_at', 'updated_at', 'is_active', 'days_remaining')\n    raw_id_fields = ('user',)\n    inlines = [SubscriptionHistoryInline]",
+        "detail": "backend.apps.subscribe.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PinnedPostAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.admin",
+        "description": "backend.apps.subscribe.admin",
+        "peekOfCode": "class PinnedPostAdmin(admin.ModelAdmin):\n    list_display = (\n        'user_link', 'post_link', 'subscription_status', 'pinned_at'\n    )\n    list_filter = ('pinned_at',)\n    search_fields = ('user__username', 'post__title')\n    readonly_fields = ('pinned_at',)\n    raw_id_fields = ('user', 'post')\n    def user_link(self, obj):\n        \"\"\"Ссылка на пользователя\"\"\"",
+        "detail": "backend.apps.subscribe.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionHistoryAdmin",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.admin",
+        "description": "backend.apps.subscribe.admin",
+        "peekOfCode": "class SubscriptionHistoryAdmin(admin.ModelAdmin):\n    list_display = (\n        'subscription_link', 'action', 'description_short', 'created_at'\n    )\n    list_filter = ('action', 'created_at')\n    search_fields = ('subscription__user__username', 'description')\n    readonly_fields = ('subscription', 'action', 'description', 'metadata', 'created_at')\n    def subscription_link(self, obj):\n        \"\"\"Ссылка на подписку\"\"\"\n        url = reverse('admin:subscribe_subscription_change', args=[obj.subscription.pk])",
+        "detail": "backend.apps.subscribe.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_header",
+        "kind": 5,
+        "importPath": "backend.apps.subscribe.admin",
+        "description": "backend.apps.subscribe.admin",
+        "peekOfCode": "admin.site.site_header = \"Администрация новостного сайта\"\nadmin.site.site_title = \"Админ новостного сайта\"\nadmin.site.index_title = \"Добро пожаловать в административную панель новостного сайта\"",
+        "detail": "backend.apps.subscribe.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_title",
+        "kind": 5,
+        "importPath": "backend.apps.subscribe.admin",
+        "description": "backend.apps.subscribe.admin",
+        "peekOfCode": "admin.site.site_title = \"Админ новостного сайта\"\nadmin.site.index_title = \"Добро пожаловать в административную панель новостного сайта\"",
+        "detail": "backend.apps.subscribe.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.index_title",
+        "kind": 5,
+        "importPath": "backend.apps.subscribe.admin",
+        "description": "backend.apps.subscribe.admin",
+        "peekOfCode": "admin.site.index_title = \"Добро пожаловать в административную панель новостного сайта\"",
+        "detail": "backend.apps.subscribe.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.apps",
+        "description": "backend.apps.subscribe.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'apps.subscribe'\n    verbose_name = \"Подписка\"",
+        "detail": "backend.apps.subscribe.apps",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionPlan",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.models",
+        "description": "backend.apps.subscribe.models",
+        "peekOfCode": "class SubscriptionPlan(models.Model):\n    name = models.CharField(max_length=255, verbose_name='Название плана')\n    price = models.DecimalField(max_digits=10, decimal_places=2, verbose_name='Цена')\n    duration_days = models.PositiveIntegerField(default=30, verbose_name='Срок действия')\n    stripe_price_id = models.CharField(max_length=255, verbose_name='ID Stripe плана')\n    features = models.JSONField(default=dict, verbose_name='Особенности', help_text='Список возможностей подписки')\n    is_active = models.BooleanField(default=True, verbose_name='Активен')\n    created_at = models.DateTimeField(auto_now_add=True, verbose_name='Дата создания')\n    updated_at = models.DateTimeField(auto_now=True, verbose_name='Дата обновления')\n    class Meta:",
+        "detail": "backend.apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.models",
+        "description": "backend.apps.subscribe.models",
+        "peekOfCode": "class Subscription(models.Model):\n    STATUS_CHOICES = (\n        (\"active\", \"Ативен\"),\n        (\"expired\", \"Срок истек\"),\n        (\"canceled\", \"Отменен\"),\n        (\"pending\", \"Ожидает оплаты\"),\n    )\n    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='subscriptions', verbose_name='Пользователь')\n    plan = models.ForeignKey(SubscriptionPlan, on_delete=models.CASCADE, related_name='subscriptions', null=True, verbose_name='План подписки')\n    status = models.CharField(max_length=20, choices=STATUS_CHOICES, default=\"pending\", verbose_name='Статус подписки')",
+        "detail": "backend.apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "PinnedPost",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.models",
+        "description": "backend.apps.subscribe.models",
+        "peekOfCode": "class PinnedPost(models.Model):\n    user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='pinned_post', verbose_name='Пользователь')\n    post = models.ForeignKey('frontpage.Post', on_delete=models.CASCADE, related_name='pin_info', verbose_name='Пост')\n    pinned_at = models.DateTimeField(auto_now_add=True, verbose_name='Дата закрепления')\n    class Meta:\n        db_table = 'pinned_posts'\n        verbose_name = 'Закрепленный пост'\n        verbose_name_plural = 'Закрепленные посты'\n        ordering = ['pinned_at']\n        indexes = [",
+        "detail": "backend.apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionHistory",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.models",
+        "description": "backend.apps.subscribe.models",
+        "peekOfCode": "class SubscriptionHistory(models.Model):\n    ACTION_CHOICES = (\n        (\"created\", \"Создан\"),\n        (\"active\", \"Ативирован\"),\n        (\"renewed\", \"Продлен\"),\n        (\"canceled\", \"Отменен\"),\n        (\"expired\", \"Истек\"),\n        (\"payment_failed\", \"Ошибка оплаты\"),\n    )\n    subscription = models.ForeignKey(Subscription, on_delete=models.CASCADE, related_name='history', verbose_name='Подписка')",
+        "detail": "backend.apps.subscribe.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionPlanSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.serializers",
+        "description": "backend.apps.subscribe.serializers",
+        "peekOfCode": "class SubscriptionPlanSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для планов подписок\"\"\"\n    class Meta:\n        model = SubscriptionPlan\n        fields = ['id', 'name', 'price', 'duration_days', 'features', \n                    'is_active', 'created_at'\n                ]\n        read_only_fields = ['id', 'created_at']\n    def to_representation(self, instance):\n        \"\"\"Переопределяем метод для преобразования данных\"\"\"",
+        "detail": "backend.apps.subscribe.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.serializers",
+        "description": "backend.apps.subscribe.serializers",
+        "peekOfCode": "class SubscriptionSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для подписки\"\"\"\n    plan_info = SubscriptionPlanSerializer(source='plan', read_only=True)\n    user_info = serializers.SerializerMethodField()\n    is_active = serializers.ReadOnlyField()\n    days_remaining = serializers.ReadOnlyField()\n    class Meta:\n        model = Subscription\n        fields = [\n            'id', 'user', 'user_info', 'plan_info', 'status', ",
+        "detail": "backend.apps.subscribe.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionCreateSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.serializers",
+        "description": "backend.apps.subscribe.serializers",
+        "peekOfCode": "class SubscriptionCreateSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для создания подписки\"\"\"\n    class Meta:\n        model = Subscription\n        fields = ['plan']\n    def validate_plan(self, value):\n        \"\"\"Валидация тарифного плана\"\"\"\n        if not value.is_active:\n            raise serializers.ValidationError('Выбраннный план неактивен')\n        return value",
+        "detail": "backend.apps.subscribe.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PinnedPostSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.serializers",
+        "description": "backend.apps.subscribe.serializers",
+        "peekOfCode": "class PinnedPostSerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для закрепленных постов\"\"\"\n    post_info = serializers.SerializerMethodField()\n    class Meta:\n        model = PinnedPost\n        fields = ['id', 'post', 'post_info', 'pinned_at']\n        read_only_fields = ['id', 'pinned_at']\n    def get_post_info(self, obj):\n        return {\n            'id': obj.post.id,",
+        "detail": "backend.apps.subscribe.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionHistorySerializer",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.serializers",
+        "description": "backend.apps.subscribe.serializers",
+        "peekOfCode": "class SubscriptionHistorySerializer(serializers.ModelSerializer):\n    \"\"\"Сериализатор для истории подписок\"\"\"\n    class Meta:\n        model = SubscriptionHistory\n        fields = ['id', 'action', 'description', 'metadata', 'created_at']\n        read_only_fields = ['id', 'created_at']\nclass UserSubscriptionStatusSerializer(serializers.Serializer):\n    \"\"\"Сериализатор для статуса подписок\"\"\"\n    has_subscription = serializers.BooleanField()\n    is_active = serializers.BooleanField()",
+        "detail": "backend.apps.subscribe.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserSubscriptionStatusSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.serializers",
+        "description": "backend.apps.subscribe.serializers",
+        "peekOfCode": "class UserSubscriptionStatusSerializer(serializers.Serializer):\n    \"\"\"Сериализатор для статуса подписок\"\"\"\n    has_subscription = serializers.BooleanField()\n    is_active = serializers.BooleanField()\n    subscription = SubscriptionSerializer(allow_null=True)\n    pinned_post = PinnedPostSerializer(allow_null=True)\n    can_pin_posts = serializers.BooleanField()\n    def to_representation(self, instance):\n        \"\"\"Ответ с информацией о подписке пользователя\"\"\"\n        user = instance",
+        "detail": "backend.apps.subscribe.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PinPostSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.serializers",
+        "description": "backend.apps.subscribe.serializers",
+        "peekOfCode": "class PinPostSerializer(serializers.Serializer):\n    \"\"\"Сериализатор для закрепления постов\"\"\"\n    post_id = serializers.IntegerField()\n    def validate_post_id(self, value):\n        \"\"\"Валидация идентификатора поста\"\"\"\n        try:\n            post = Post.objects.get(id=value, status='published')\n        except Post.DoesNotExist as e:\n            raise serializers.ValidationError(\"Пост не найден или не опубликован\") from e\n        user = self.context['request'].user",
+        "detail": "backend.apps.subscribe.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UnpinPostSerializer",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.serializers",
+        "description": "backend.apps.subscribe.serializers",
+        "peekOfCode": "class UnpinPostSerializer(serializers.Serializer):\n    \"\"\"Сериализатор для открепления постов\"\"\"\n    def validate(self, attrs):\n        \"\"\"Валидация открепления постов\"\"\"\n        user = self.context['request'].user\n        if not hasattr( user, 'pinned_post'):\n            raise serializers.ValidationError({\n                'none_field_errors': ['Закрепленный пост не найден']\n            })\n        return attrs",
+        "detail": "backend.apps.subscribe.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "subscription_post_save",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.signals",
+        "description": "backend.apps.subscribe.signals",
+        "peekOfCode": "def subscription_post_save(sender, instance, created, **kwargs):\n    \"\"\" Обработка создания подписки \"\"\"\n    if created:\n        SubscriptionHistory.objects.create(\n            subscription=instance,\n            action='created',\n            description=f'Подписка создана для плана {instance.plan.name}',\n        )\n    else:\n        if hasattr(instance, '_previous_status'):",
+        "detail": "backend.apps.subscribe.signals",
+        "documentation": {}
+    },
+    {
+        "label": "subscription_pre_delete",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.signals",
+        "description": "backend.apps.subscribe.signals",
+        "peekOfCode": "def subscription_pre_delete(sender, instance, **kwargs):\n    \"\"\" Обработка удаления подписки \"\"\"\n    try:\n        instance.user.planned_post.delete()\n    except PinnedPost.DoesNotExist:\n        pass\n@receiver(post_save, sender=PinnedPost)\ndef pinned_post_post_save(sender, instance, created, **kwargs):\n    \"\"\" Обработка сохранения закрепленного поста \"\"\"\n    if created:",
+        "detail": "backend.apps.subscribe.signals",
+        "documentation": {}
+    },
+    {
+        "label": "pinned_post_post_save",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.signals",
+        "description": "backend.apps.subscribe.signals",
+        "peekOfCode": "def pinned_post_post_save(sender, instance, created, **kwargs):\n    \"\"\" Обработка сохранения закрепленного поста \"\"\"\n    if created:\n        if not hasattr(instance.user, 'subscription') or not instance.user.subscription.is_active():\n            instance.delete()\n            return\n    SubscriptionHistory.objects.create(\n        subscription=instance.user.subscription,\n        action='pinned_post',\n        description=f'Пост {instance.post.title} закреплен',",
+        "detail": "backend.apps.subscribe.signals",
+        "documentation": {}
+    },
+    {
+        "label": "pinned_post_pre_delete",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.signals",
+        "description": "backend.apps.subscribe.signals",
+        "peekOfCode": "def pinned_post_pre_delete(sender, instance, **kwargs):\n    \"\"\" Обработка удаления закрепленного поста \"\"\"\n    if hasattr(instance.user, 'subscription'):\n        SubscriptionHistory.objects.create(\n            subscription=instance.user.subscription,\n            action='unpinned_post',\n            description=f'Пост {instance.post.title} откреплен',\n            metadata={\n                'post_id': instance.post.id,\n                'post_title': instance.post.title,",
+        "detail": "backend.apps.subscribe.signals",
+        "documentation": {}
+    },
+    {
+        "label": "check_expired_subscriptions",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.tasks",
+        "description": "backend.apps.subscribe.tasks",
+        "peekOfCode": "def check_expired_subscriptions():\n    \"\"\"Периодическая задача для проверки истекших подписок\"\"\"\n    now = timezone.now()\n    expired_subscriptions = Subscription.object.filter(\n        status='active',\n        end_date__lt=now,\n    )\n    expired_count = 0\n    pinned_posts_removed = 0\n    for subscription in expired_subscriptions:",
+        "detail": "backend.apps.subscribe.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "send_subscription_expiry_reminder",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.tasks",
+        "description": "backend.apps.subscribe.tasks",
+        "peekOfCode": "def send_subscription_expiry_reminder():\n    \"\"\"Отправка напоминаний о скором истечении подписки\"\"\"\n    # Находим подписки, которые истекают через 3 дня \n    reminder_date = timezone.now() + timedelta(days=3)\n    expiring_subscriptions = Subscription.objects.filter(\n        status='active',\n        end_date__date=reminder_date.date(),\n        auto_renew=False\n    )\n    sent_count = 0",
+        "detail": "backend.apps.subscribe.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backend.apps.subscribe.urls",
+        "description": "backend.apps.subscribe.urls",
+        "peekOfCode": "urlpatterns = [\n    # План подписки\n    path(\"plans/\", views.SubscriptionPlanListView.as_view(), name=\"subscription-plans\"),\n    path(\"plans/<int:pk>/\", views.SubscriptionPlanDetailView.as_view(), name=\"subscription-plan-detail\"),\n    # Пользовательские подписки\n    path(\"my-subscription/\", views.UserSubscriptionView.as_view(), name=\"my-subscription\"),\n    path(\"status/\", views.subscription_status, name=\"subscription-status\"), \n    path(\"history/\", views.SubscriptionHistoryView.as_view(), name=\"subscription-history\"),\n    path(\"cancel/\", views.cancel_subscription, name=\"cancel-subscription\"),\n    # Закрепленные посты",
+        "detail": "backend.apps.subscribe.urls",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionPlanListView",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.views",
+        "description": "backend.apps.subscribe.views",
+        "peekOfCode": "class SubscriptionPlanListView(generics.ListAPIView):\n    \"\"\"Список доступных тарифных планов \"\"\"\n    queryset = SubscriptionPlan.objects.filter(is_active=True)\n    serializer_class = SubscriptionPlanSerializer\n    permission_classes = [permissions.AllowAny]\nclass SubscriptionPlanDetailView(generics.RetrieveAPIView):\n    \"\"\"Детальная информация о тарифных планах \"\"\"\n    queryset = SubscriptionPlan.objects.filter(is_active=True)\n    serializer_class = SubscriptionPlanSerializer\n    permission_classes = [permissions.AllowAny]",
+        "detail": "backend.apps.subscribe.views",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionPlanDetailView",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.views",
+        "description": "backend.apps.subscribe.views",
+        "peekOfCode": "class SubscriptionPlanDetailView(generics.RetrieveAPIView):\n    \"\"\"Детальная информация о тарифных планах \"\"\"\n    queryset = SubscriptionPlan.objects.filter(is_active=True)\n    serializer_class = SubscriptionPlanSerializer\n    permission_classes = [permissions.AllowAny]\nclass UserSubscriptionView(generics.RetrieveAPIView):\n    \"\"\"Информация о подписке пользователя \"\"\"\n    serializer_class = SubscriptionSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def get_object(self):",
+        "detail": "backend.apps.subscribe.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserSubscriptionView",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.views",
+        "description": "backend.apps.subscribe.views",
+        "peekOfCode": "class UserSubscriptionView(generics.RetrieveAPIView):\n    \"\"\"Информация о подписке пользователя \"\"\"\n    serializer_class = SubscriptionSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def get_object(self):\n        \"\"\"Возвращает подписку пользователя или None \"\"\"\n        try:\n            return self.request.user.subscription\n        except Subscription.DoesNotExist:\n            return None",
+        "detail": "backend.apps.subscribe.views",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionHistoryView",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.views",
+        "description": "backend.apps.subscribe.views",
+        "peekOfCode": "class SubscriptionHistoryView(generics.ListAPIView):\n    \"\"\"Список изменений подписок пользователя \"\"\"\n    serializer_class = SubscriptionHistorySerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def get_queryset(self):\n        \"\"\"Возвращает историю подписок пользователя \"\"\"\n        try:\n            subscription = self.request.user.subscription\n            return subscription.history.all()\n        except Subscription.DoesNotExist:",
+        "detail": "backend.apps.subscribe.views",
+        "documentation": {}
+    },
+    {
+        "label": "PinnedPostView",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.views",
+        "description": "backend.apps.subscribe.views",
+        "peekOfCode": "class PinnedPostView(generics.RetrieveDestroyAPIView):\n    \"\"\"Список закрепленных постов \"\"\"\n    serializer_class = PinnedPostSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def get_queryset(self):\n        \"\"\"Возвращает закрепленные посты \"\"\"\n        try:\n            return self.request.user.pinned_post\n        except PinnedPost.DoesNotExist:\n            return None",
+        "detail": "backend.apps.subscribe.views",
+        "documentation": {}
+    },
+    {
+        "label": "subscription_status",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.views",
+        "description": "backend.apps.subscribe.views",
+        "peekOfCode": "def subscription_status(request):\n    \"\"\"Возвращает статус подписки \"\"\"\n    serializer = UserSubscriptionStatusSerializer(request.user)\n    return Response(serializer.data)\n@api_view(['POST'])\n@permission_classes([permissions.IsAuthenticated])\ndef pin_post(request):\n    \"\"\"Закрепляет пост пользователя \"\"\"    \n    serializer = PinPostSerializer(data=request.data, context={'request': request})\n    if serializer.is_valid():",
+        "detail": "backend.apps.subscribe.views",
+        "documentation": {}
+    },
+    {
+        "label": "pin_post",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.views",
+        "description": "backend.apps.subscribe.views",
+        "peekOfCode": "def pin_post(request):\n    \"\"\"Закрепляет пост пользователя \"\"\"    \n    serializer = PinPostSerializer(data=request.data, context={'request': request})\n    if serializer.is_valid():\n        post_id = serializer.validated_data[\"post_id\"]\n        try:\n            with transaction.atomic():\n                post = get_object_or_404(Post, id=post_id, status = 'published')\n                if post.author != request.user:\n                    return Response({",
+        "detail": "backend.apps.subscribe.views",
+        "documentation": {}
+    },
+    {
+        "label": "unpin_post",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.views",
+        "description": "backend.apps.subscribe.views",
+        "peekOfCode": "def unpin_post(request):\n    \"\"\"Открепляет пост пользователя \"\"\"    \n    serializer = UnpinPostSerializer(data=request.data, context={'request': request})\n    if serializer.is_valid():\n        try:\n            pinned_post = request.user.pinned_post\n            pinned_post.delete()\n            return Response({\n                \"message\": \"Пост откреплен успешно\"\n            }, status=status.HTTP_200_OK)",
+        "detail": "backend.apps.subscribe.views",
+        "documentation": {}
+    },
+    {
+        "label": "cancel_subscription",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.views",
+        "description": "backend.apps.subscribe.views",
+        "peekOfCode": "def cancel_subscription(request):\n    \"\"\"Отменяет подписку пользователя \"\"\"    \n    try:\n        subscription = request.user.subscription\n        if not subscription.is_active:\n            return Response({\n                \"error\": \"Подписки не найдено\"\n            }, status=status.HTTP_400_BAD_REQUEST)\n        with transaction.atomic():\n            \"\"\"Отменяет подписку  \"\"\"    ",
+        "detail": "backend.apps.subscribe.views",
+        "documentation": {}
+    },
+    {
+        "label": "pinned_posts_list",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.views",
+        "description": "backend.apps.subscribe.views",
+        "peekOfCode": "def pinned_posts_list(request):\n    \"\"\" Возвращает список всех закрепленных постов \"\"\"    \n    pinned_posts = PinnedPost.objects.select_related(\n        'post', 'post__author', 'post__category', 'user__subscription'\n    ).filter(\n        user__subscription__status= 'active',\n        user__subscription__end_date__gt= timezone.now(),\n        post__status= 'published'\n    ).order_by('pinned_at')\n    \"\"\" Формирует ответ с информацией \"\"\"",
+        "detail": "backend.apps.subscribe.views",
+        "documentation": {}
+    },
+    {
+        "label": "can_pin_post",
+        "kind": 2,
+        "importPath": "backend.apps.subscribe.views",
+        "description": "backend.apps.subscribe.views",
+        "peekOfCode": "def can_pin_post(request, post_id):\n    \"\"\" Проверяет может ли закреплять указанный пост \"\"\"\n    try:    \n        post = get_object_or_404(Post, id=post_id, status='published')\n        \"\"\" Проверки \"\"\"\n        checks = {\n            'post_exists': True,\n            'is_own_post': post.author == request.user,        \n            'has_subscription': hasattr(request.user, 'subscription'),\n            'is_active': False,",
+        "detail": "backend.apps.subscribe.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "backend.config.asgi",
+        "description": "backend.config.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "backend.config.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "debug_task",
+        "kind": 2,
+        "importPath": "backend.config.celery",
+        "description": "backend.config.celery",
+        "peekOfCode": "def debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "detail": "backend.config.celery",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.config.celery",
+        "description": "backend.config.celery",
+        "peekOfCode": "app = Celery('config')\n# Использование строки здесь означает, что worker не должен сериализовать\n# объект конфигурации для дочерних процессов.\napp.config_from_object('django.conf:settings', namespace='CELERY')\n# Загрузка задач из всех зарегистрированных Django apps.\napp.autodiscover_tasks() \napp.task(bind=True)\ndef debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "detail": "backend.config.celery",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent.parent\nSECRET_KEY = config('SECRET_KEY')\nDEBUG = config('DEBUG', default=False, cast=bool)\nALLOWED_HOSTS = ['localhost', '127.0.0.1', 'domen.com', 'www.domen.com']\n# Application definition\nDJANGO_APPS = [\n    \"jazzmin\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "SECRET_KEY = config('SECRET_KEY')\nDEBUG = config('DEBUG', default=False, cast=bool)\nALLOWED_HOSTS = ['localhost', '127.0.0.1', 'domen.com', 'www.domen.com']\n# Application definition\nDJANGO_APPS = [\n    \"jazzmin\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "DEBUG = config('DEBUG', default=False, cast=bool)\nALLOWED_HOSTS = ['localhost', '127.0.0.1', 'domen.com', 'www.domen.com']\n# Application definition\nDJANGO_APPS = [\n    \"jazzmin\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'domen.com', 'www.domen.com']\n# Application definition\nDJANGO_APPS = [\n    \"jazzmin\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DJANGO_APPS",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "DJANGO_APPS = [\n    \"jazzmin\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nTHIRD_PARTY_APPS = [",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "THIRD_PARTY_APPS",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "THIRD_PARTY_APPS = [\n    'rest_framework',\n    'corsheaders',\n    'django_filters',\n    'rest_framework_simplejwt',\n]\nLOCAL_APPS = [\n    'apps.accounts',\n    'apps.frontpage',\n    'apps.comments',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOCAL_APPS",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "LOCAL_APPS = [\n    'apps.accounts',\n    'apps.frontpage',\n    'apps.comments',\n    'apps.subscribe',\n    'apps.payment',\n]\nINSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS\nMIDDLEWARE = [\n    'corsheaders.middleware.CorsMiddleware',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS\nMIDDLEWARE = [\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "ROOT_URLCONF = 'config.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'config.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\n# This configuration in the Django settings file is specifying the default database connection\n# settings for the project.\n# DATABASES = {\n#     'default': {\n#         'ENGINE': 'django.db.backends.sqlite3',\n#         'NAME': BASE_DIR / 'db.sqlite3',\n#     }",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': config('POSTGRES_DB', default='newssite'),\n        'USER': config('POSTGRES_USER', default='newsuser'),\n        'PASSWORD': config('POSTGRES_PASSWORD'),\n        'HOST': config('DB_HOST', default='localhost'),\n        'PORT': config('DB_PORT', default='5432', cast=int),\n        'ATOMIC_REQUESTS': True,\n    }",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'ru'\nTIME_ZONE = 'Europe/Minsk'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\n# Additional locations of static files (только если директория существует)\nSTATICFILES_DIRS = []\n# Проверяем, существует ли директория static в проекте",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "TIME_ZONE = 'Europe/Minsk'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\n# Additional locations of static files (только если директория существует)\nSTATICFILES_DIRS = []\n# Проверяем, существует ли директория static в проекте\nif (BASE_DIR / 'static').exists():",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\n# Additional locations of static files (только если директория существует)\nSTATICFILES_DIRS = []\n# Проверяем, существует ли директория static в проекте\nif (BASE_DIR / 'static').exists():\n    STATICFILES_DIRS.append(BASE_DIR / 'static')",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\n# Additional locations of static files (только если директория существует)\nSTATICFILES_DIRS = []\n# Проверяем, существует ли директория static в проекте\nif (BASE_DIR / 'static').exists():\n    STATICFILES_DIRS.append(BASE_DIR / 'static')\n# Static files finders",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\n# Additional locations of static files (только если директория существует)\nSTATICFILES_DIRS = []\n# Проверяем, существует ли директория static в проекте\nif (BASE_DIR / 'static').exists():\n    STATICFILES_DIRS.append(BASE_DIR / 'static')\n# Static files finders\nSTATICFILES_FINDERS = [\n    'django.contrib.staticfiles.finders.FileSystemFinder',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'staticfiles'\n# Additional locations of static files (только если директория существует)\nSTATICFILES_DIRS = []\n# Проверяем, существует ли директория static в проекте\nif (BASE_DIR / 'static').exists():\n    STATICFILES_DIRS.append(BASE_DIR / 'static')\n# Static files finders\nSTATICFILES_FINDERS = [\n    'django.contrib.staticfiles.finders.FileSystemFinder',\n    'django.contrib.staticfiles.finders.AppDirectoriesFinder',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "STATICFILES_DIRS = []\n# Проверяем, существует ли директория static в проекте\nif (BASE_DIR / 'static').exists():\n    STATICFILES_DIRS.append(BASE_DIR / 'static')\n# Static files finders\nSTATICFILES_FINDERS = [\n    'django.contrib.staticfiles.finders.FileSystemFinder',\n    'django.contrib.staticfiles.finders.AppDirectoriesFinder',\n]\n# Media files",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_FINDERS",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "STATICFILES_FINDERS = [\n    'django.contrib.staticfiles.finders.FileSystemFinder',\n    'django.contrib.staticfiles.finders.AppDirectoriesFinder',\n]\n# Media files\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Default primary key field type\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Custom User Model",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Default primary key field type\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Custom User Model\nAUTH_USER_MODEL = 'accounts.User'\n# REST Framework Configuration\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR / 'media'\n# Default primary key field type\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Custom User Model\nAUTH_USER_MODEL = 'accounts.User'\n# REST Framework Configuration\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ],",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Custom User Model\nAUTH_USER_MODEL = 'accounts.User'\n# REST Framework Configuration\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ],\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'accounts.User'\n# REST Framework Configuration\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ],\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ],\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 20,\n    'DEFAULT_FILTER_BACKENDS': [",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://localhost:5173\",  # Укажите порт, на котором работает ваш Vue.js\n    \"http://127.0.0.1:5173\",\n    \"https://domen.com\",\n    \"https://www.domen.com\",\n]\n# JWT Configuration\nfrom datetime import timedelta\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=7),\n    'ROTATE_REFRESH_TOKENS': True,\n    'BLACKLIST_AFTER_ROTATION': True,\n    'UPDATE_LAST_LOGIN': True,\n    'ALGORITHM': 'HS256',\n    'SIGNING_KEY': SECRET_KEY,\n    'VERIFYING_KEY': None,\n    'AUTH_HEADER_TYPES': ('Bearer',),",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECURE_BROWSER_XSS_FILTER",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "SECURE_BROWSER_XSS_FILTER = True\nSECURE_CONTENT_TYPE_NOSNIFF = True\nX_FRAME_OPTIONS = 'DENY'\n# URL фронтенда для редиректов\nFRONTEND_URL = config('FRONTEND_URL', default='http://localhost:5173')\n# Stripe настройки\nSTRIPE_PUBLISHABLE_KEY = config('STRIPE_PUBLISHABLE_KEY', default='')\nSTRIPE_SECRET_KEY = config('STRIPE_SECRET_KEY', default='')\nSTRIPE_WEBHOOK_SECRET = config('STRIPE_WEBHOOK_SECRET', default='')\n# Email настройки (для уведомлений)",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECURE_CONTENT_TYPE_NOSNIFF",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "SECURE_CONTENT_TYPE_NOSNIFF = True\nX_FRAME_OPTIONS = 'DENY'\n# URL фронтенда для редиректов\nFRONTEND_URL = config('FRONTEND_URL', default='http://localhost:5173')\n# Stripe настройки\nSTRIPE_PUBLISHABLE_KEY = config('STRIPE_PUBLISHABLE_KEY', default='')\nSTRIPE_SECRET_KEY = config('STRIPE_SECRET_KEY', default='')\nSTRIPE_WEBHOOK_SECRET = config('STRIPE_WEBHOOK_SECRET', default='')\n# Email настройки (для уведомлений)\nEMAIL_BACKEND = config('EMAIL_BACKEND', default='django.core.mail.backends.console.EmailBackend')",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "X_FRAME_OPTIONS",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "X_FRAME_OPTIONS = 'DENY'\n# URL фронтенда для редиректов\nFRONTEND_URL = config('FRONTEND_URL', default='http://localhost:5173')\n# Stripe настройки\nSTRIPE_PUBLISHABLE_KEY = config('STRIPE_PUBLISHABLE_KEY', default='')\nSTRIPE_SECRET_KEY = config('STRIPE_SECRET_KEY', default='')\nSTRIPE_WEBHOOK_SECRET = config('STRIPE_WEBHOOK_SECRET', default='')\n# Email настройки (для уведомлений)\nEMAIL_BACKEND = config('EMAIL_BACKEND', default='django.core.mail.backends.console.EmailBackend')\nEMAIL_HOST = config('EMAIL_HOST', default='localhost')",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "FRONTEND_URL",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "FRONTEND_URL = config('FRONTEND_URL', default='http://localhost:5173')\n# Stripe настройки\nSTRIPE_PUBLISHABLE_KEY = config('STRIPE_PUBLISHABLE_KEY', default='')\nSTRIPE_SECRET_KEY = config('STRIPE_SECRET_KEY', default='')\nSTRIPE_WEBHOOK_SECRET = config('STRIPE_WEBHOOK_SECRET', default='')\n# Email настройки (для уведомлений)\nEMAIL_BACKEND = config('EMAIL_BACKEND', default='django.core.mail.backends.console.EmailBackend')\nEMAIL_HOST = config('EMAIL_HOST', default='localhost')\nEMAIL_PORT = config('EMAIL_PORT', default=587, cast=int)\nEMAIL_USE_TLS = config('EMAIL_USE_TLS', default=True, cast=bool)",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STRIPE_PUBLISHABLE_KEY",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "STRIPE_PUBLISHABLE_KEY = config('STRIPE_PUBLISHABLE_KEY', default='')\nSTRIPE_SECRET_KEY = config('STRIPE_SECRET_KEY', default='')\nSTRIPE_WEBHOOK_SECRET = config('STRIPE_WEBHOOK_SECRET', default='')\n# Email настройки (для уведомлений)\nEMAIL_BACKEND = config('EMAIL_BACKEND', default='django.core.mail.backends.console.EmailBackend')\nEMAIL_HOST = config('EMAIL_HOST', default='localhost')\nEMAIL_PORT = config('EMAIL_PORT', default=587, cast=int)\nEMAIL_USE_TLS = config('EMAIL_USE_TLS', default=True, cast=bool)\nEMAIL_HOST_USER = config('EMAIL_HOST_USER', default='')\nEMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='')",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STRIPE_SECRET_KEY",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "STRIPE_SECRET_KEY = config('STRIPE_SECRET_KEY', default='')\nSTRIPE_WEBHOOK_SECRET = config('STRIPE_WEBHOOK_SECRET', default='')\n# Email настройки (для уведомлений)\nEMAIL_BACKEND = config('EMAIL_BACKEND', default='django.core.mail.backends.console.EmailBackend')\nEMAIL_HOST = config('EMAIL_HOST', default='localhost')\nEMAIL_PORT = config('EMAIL_PORT', default=587, cast=int)\nEMAIL_USE_TLS = config('EMAIL_USE_TLS', default=True, cast=bool)\nEMAIL_HOST_USER = config('EMAIL_HOST_USER', default='')\nEMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='')\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='noreply@newssite.com')",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STRIPE_WEBHOOK_SECRET",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "STRIPE_WEBHOOK_SECRET = config('STRIPE_WEBHOOK_SECRET', default='')\n# Email настройки (для уведомлений)\nEMAIL_BACKEND = config('EMAIL_BACKEND', default='django.core.mail.backends.console.EmailBackend')\nEMAIL_HOST = config('EMAIL_HOST', default='localhost')\nEMAIL_PORT = config('EMAIL_PORT', default=587, cast=int)\nEMAIL_USE_TLS = config('EMAIL_USE_TLS', default=True, cast=bool)\nEMAIL_HOST_USER = config('EMAIL_HOST_USER', default='')\nEMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='')\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='noreply@newssite.com')\n# Celery настройки (опционально)",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "EMAIL_BACKEND = config('EMAIL_BACKEND', default='django.core.mail.backends.console.EmailBackend')\nEMAIL_HOST = config('EMAIL_HOST', default='localhost')\nEMAIL_PORT = config('EMAIL_PORT', default=587, cast=int)\nEMAIL_USE_TLS = config('EMAIL_USE_TLS', default=True, cast=bool)\nEMAIL_HOST_USER = config('EMAIL_HOST_USER', default='')\nEMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='')\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='noreply@newssite.com')\n# Celery настройки (опционально)\nCELERY_BROKER_URL = config('CELERY_BROKER_URL', default='redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = config('CELERY_RESULT_BACKEND', default='redis://localhost:6379/0')",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "EMAIL_HOST = config('EMAIL_HOST', default='localhost')\nEMAIL_PORT = config('EMAIL_PORT', default=587, cast=int)\nEMAIL_USE_TLS = config('EMAIL_USE_TLS', default=True, cast=bool)\nEMAIL_HOST_USER = config('EMAIL_HOST_USER', default='')\nEMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='')\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='noreply@newssite.com')\n# Celery настройки (опционально)\nCELERY_BROKER_URL = config('CELERY_BROKER_URL', default='redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = config('CELERY_RESULT_BACKEND', default='redis://localhost:6379/0')\nCELERY_TIMEZONE = TIME_ZONE",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "EMAIL_PORT = config('EMAIL_PORT', default=587, cast=int)\nEMAIL_USE_TLS = config('EMAIL_USE_TLS', default=True, cast=bool)\nEMAIL_HOST_USER = config('EMAIL_HOST_USER', default='')\nEMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='')\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='noreply@newssite.com')\n# Celery настройки (опционально)\nCELERY_BROKER_URL = config('CELERY_BROKER_URL', default='redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = config('CELERY_RESULT_BACKEND', default='redis://localhost:6379/0')\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "EMAIL_USE_TLS = config('EMAIL_USE_TLS', default=True, cast=bool)\nEMAIL_HOST_USER = config('EMAIL_HOST_USER', default='')\nEMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='')\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='noreply@newssite.com')\n# Celery настройки (опционально)\nCELERY_BROKER_URL = config('CELERY_BROKER_URL', default='redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = config('CELERY_RESULT_BACKEND', default='redis://localhost:6379/0')\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "EMAIL_HOST_USER = config('EMAIL_HOST_USER', default='')\nEMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='')\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='noreply@newssite.com')\n# Celery настройки (опционально)\nCELERY_BROKER_URL = config('CELERY_BROKER_URL', default='redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = config('CELERY_RESULT_BACKEND', default='redis://localhost:6379/0')\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ACCEPT_CONTENT = ['json']",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='')\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='noreply@newssite.com')\n# Celery настройки (опционально)\nCELERY_BROKER_URL = config('CELERY_BROKER_URL', default='redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = config('CELERY_RESULT_BACKEND', default='redis://localhost:6379/0')\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ACCEPT_CONTENT = ['json']\n# Celery Beat настройки для периодических задач",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FROM_EMAIL",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='noreply@newssite.com')\n# Celery настройки (опционально)\nCELERY_BROKER_URL = config('CELERY_BROKER_URL', default='redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = config('CELERY_RESULT_BACKEND', default='redis://localhost:6379/0')\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ACCEPT_CONTENT = ['json']\n# Celery Beat настройки для периодических задач\nCELERY_BEAT_SCHEDULE = {",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BROKER_URL",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "CELERY_BROKER_URL = config('CELERY_BROKER_URL', default='redis://localhost:6379/0')\nCELERY_RESULT_BACKEND = config('CELERY_RESULT_BACKEND', default='redis://localhost:6379/0')\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ACCEPT_CONTENT = ['json']\n# Celery Beat настройки для периодических задач\nCELERY_BEAT_SCHEDULE = {\n    'check-expired-subscriptions': {\n        'task': 'apps.subscribe.tasks.check_expired_subscriptions',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_BACKEND",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "CELERY_RESULT_BACKEND = config('CELERY_RESULT_BACKEND', default='redis://localhost:6379/0')\nCELERY_TIMEZONE = TIME_ZONE\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ACCEPT_CONTENT = ['json']\n# Celery Beat настройки для периодических задач\nCELERY_BEAT_SCHEDULE = {\n    'check-expired-subscriptions': {\n        'task': 'apps.subscribe.tasks.check_expired_subscriptions',\n        'schedule': 3600.0,  # Каждый час",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_TIMEZONE",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "CELERY_TIMEZONE = TIME_ZONE\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ACCEPT_CONTENT = ['json']\n# Celery Beat настройки для периодических задач\nCELERY_BEAT_SCHEDULE = {\n    'check-expired-subscriptions': {\n        'task': 'apps.subscribe.tasks.check_expired_subscriptions',\n        'schedule': 3600.0,  # Каждый час\n    },",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_TASK_SERIALIZER",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "CELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ACCEPT_CONTENT = ['json']\n# Celery Beat настройки для периодических задач\nCELERY_BEAT_SCHEDULE = {\n    'check-expired-subscriptions': {\n        'task': 'apps.subscribe.tasks.check_expired_subscriptions',\n        'schedule': 3600.0,  # Каждый час\n    },\n    'send-subscription-expiry-reminders': {",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_SERIALIZER",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "CELERY_RESULT_SERIALIZER = 'json'\nCELERY_ACCEPT_CONTENT = ['json']\n# Celery Beat настройки для периодических задач\nCELERY_BEAT_SCHEDULE = {\n    'check-expired-subscriptions': {\n        'task': 'apps.subscribe.tasks.check_expired_subscriptions',\n        'schedule': 3600.0,  # Каждый час\n    },\n    'send-subscription-expiry-reminders': {\n        'task': 'apps.subscribe.tasks.send_subscription_expiry_reminder',",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_ACCEPT_CONTENT",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "CELERY_ACCEPT_CONTENT = ['json']\n# Celery Beat настройки для периодических задач\nCELERY_BEAT_SCHEDULE = {\n    'check-expired-subscriptions': {\n        'task': 'apps.subscribe.tasks.check_expired_subscriptions',\n        'schedule': 3600.0,  # Каждый час\n    },\n    'send-subscription-expiry-reminders': {\n        'task': 'apps.subscribe.tasks.send_subscription_expiry_reminder',\n        'schedule': 86400.0,  # Каждый день",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BEAT_SCHEDULE",
+        "kind": 5,
+        "importPath": "backend.config.settings",
+        "description": "backend.config.settings",
+        "peekOfCode": "CELERY_BEAT_SCHEDULE = {\n    'check-expired-subscriptions': {\n        'task': 'apps.subscribe.tasks.check_expired_subscriptions',\n        'schedule': 3600.0,  # Каждый час\n    },\n    'send-subscription-expiry-reminders': {\n        'task': 'apps.subscribe.tasks.send_subscription_expiry_reminder',\n        'schedule': 86400.0,  # Каждый день\n    },\n    'cleanup-old-payments': {",
+        "detail": "backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backend.config.urls",
+        "description": "backend.config.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/v1/posts/', include('apps.frontpage.urls')),\n    path('api/v1/auth/', include('apps.accounts.urls')),\n    path('api/v1/comments/', include('apps.comments.urls')),\n    path('api/v1/subscribe/', include('apps.subscribe.urls')),\n    path('api/v1/payment/', include('apps.payment.urls')),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "backend.config.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "backend.config.wsgi",
+        "description": "backend.config.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "backend.config.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "backend.manage",
+        "description": "backend.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "backend.manage",
+        "documentation": {}
+    }
+]

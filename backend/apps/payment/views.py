@@ -132,7 +132,7 @@ def payment_status(request, payment_id):
         
     except Payment.DoesNotExist:
         return Response({
-            'error': 'Платеж не найден'
+            'error': 'Payment not found'
         }, status=status.HTTP_404_NOT_FOUND)
 
 
@@ -149,7 +149,7 @@ def cancel_payment(request, payment_id):
         
         if not payment.is_pending:
             return Response({
-                'error': 'Можно отменять только ожидающие платежи'
+                'error': 'Can only cancel pending payments'
             }, status=status.HTTP_400_BAD_REQUEST)
         
         payment.status = 'cancelled'
@@ -160,12 +160,12 @@ def cancel_payment(request, payment_id):
             payment.subscription.cancel()
         
         return Response({
-            'message': 'Платеж отменен успешно'
+            'message': 'Payment cancelled successfully'
         })
         
     except Payment.DoesNotExist:
         return Response({
-            'error': 'Платеж не найден'
+            'error': 'Payment not found'
         }, status=status.HTTP_404_NOT_FOUND)
     
 
@@ -197,7 +197,7 @@ def create_refund(request, payment_id):
         
         if not payment.can_be_refunded:
             return Response({
-                'error': 'Этот платеж нельзя вернуть'
+                'error': 'This payment cannot be refunded'
             }, status=status.HTTP_400_BAD_REQUEST)
         
         serializer = RefundCreateSerializer(
@@ -230,45 +230,58 @@ def create_refund(request, payment_id):
                     response_serializer = RefundSerializer(refund)
                     return Response(response_serializer.data, status=status.HTTP_201_CREATED)
                 else:
-                    refund.status = 'failed' 
+                    refund.status = 'failed'
                     refund.save()
                     return Response({
-                        'error': 'Невозможно обработать платеж'
+                        'error': 'Failed to process refund'
                     }, status=status.HTTP_400_BAD_REQUEST)
         
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
         
     except Payment.DoesNotExist:
         return Response({
-            'error': 'Платеж не найден'
+            'error': 'Payment not found'
         }, status=status.HTTP_404_NOT_FOUND)
     
 @csrf_exempt
 @require_POST
 def stripe_webhook(request):
     """Webhook endpoint для Stripe"""
-    payload = request.body
-    sig_header = request.META.get('HTTP_STRIPE_SIGNATURE')
-    
+    import logging
+    logger = logging.getLogger(__name__)
+
     try:
+        payload = request.body
+        sig_header = request.META.get('HTTP_STRIPE_SIGNATURE')
+
+        logger.info(f"Received Stripe webhook. Payload length: {len(payload)}, Sig: {sig_header[:20] if sig_header else None}...")
+
         # Верифицируем webhook
         event = stripe.Webhook.construct_event(
             payload, sig_header, settings.STRIPE_WEBHOOK_SECRET
         )
-    except ValueError:
-        # Неверный payload
+
+        logger.info(f"Webhook verified. Event type: {event.type}, ID: {event.id}")
+
+        # Обрабатываем событие
+        success = WebhookService.process_stripe_webhook(event)
+
+        logger.info(f"Webhook processing result: {success}")
+
+        if success:
+            return HttpResponse(status=200)
+        else:
+            return HttpResponse(status=400)
+
+    except ValueError as e:
+        logger.error(f"Invalid payload in webhook: {e}")
         return HttpResponse(status=400)
-    except stripe.error.SignatureVerificationError:
-        # Неверная подпись
+    except stripe.error.SignatureVerificationError as e:
+        logger.error(f"Signature verification failed: {e}")
         return HttpResponse(status=400)
-    
-    # Обрабатываем событие
-    success = WebhookService.process_stripe_webhook(event)
-    
-    if success:
-        return HttpResponse(status=200)
-    else:
-        return HttpResponse(status=400)
+    except Exception as e:
+        logger.error(f"Unexpected error in webhook: {e}", exc_info=True)
+        return HttpResponse(status=500)
     
 @api_view(['GET'])
 @permission_classes([permissions.IsAdminUser])
@@ -371,10 +384,10 @@ def retry_payment(request, payment_id):
             return Response(response_serializer.data)
         else:
             return Response({
-                'error': 'Не удалось создать сеанс проверки'
+                'error': 'Failed to create checkout session'
             }, status=status.HTTP_400_BAD_REQUEST)
             
     except Payment.DoesNotExist:
         return Response({
-            'error': 'Оплата не найдена или ее не возможно повторить'
+            'error': 'Payment not found or cannot be retried'
         }, status=status.HTTP_404_NOT_FOUND)

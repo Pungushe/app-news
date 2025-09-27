@@ -56,7 +56,7 @@ class PostDetailSerializer(serializers.ModelSerializer):
     is_pinned = serializers.ReadOnlyField()
     pinned_info = serializers.SerializerMethodField()
     can_pin = serializers.SerializerMethodField()
-    
+
     class Meta:
         model = Post
         fields = [
@@ -89,11 +89,12 @@ class PostDetailSerializer(serializers.ModelSerializer):
         return obj.get_pinned_info()
     
     def get_can_pin(self, obj):
+        """Проверяет, может ли текущий пользователь закрпить пост"""
         request = self.context.get('request')
-        
         if not request or not request.user.is_authenticated:
             return False
         return obj.can_be_pinned_by(request.user)
+
 
 class PostCreateUpdateSerializer(serializers.ModelSerializer):
     """Сериализатор для создания и обновления постов"""

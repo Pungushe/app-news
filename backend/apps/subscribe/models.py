@@ -30,7 +30,7 @@ class Subscription(models.Model):
         ("pending", "Ожидает оплаты"),
     )
     
-    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='subscriptions', verbose_name='Пользователь')
+    user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='subscription', verbose_name='Пользователь')
     plan = models.ForeignKey(SubscriptionPlan, on_delete=models.CASCADE, related_name='subscriptions', null=True, verbose_name='План подписки')
     status = models.CharField(max_length=20, choices=STATUS_CHOICES, default="pending", verbose_name='Статус подписки')
     start_date = models.DateTimeField(verbose_name='Дата начала подписки')

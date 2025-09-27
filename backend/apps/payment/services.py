@@ -398,5 +398,5 @@ class WebhookService:
             return True
 
         except Exception as e:
-            logger.error(f"Обработка ошибок создано: {e}")
+            logger.error(f"Error handling dispute created: {e}")
             return False

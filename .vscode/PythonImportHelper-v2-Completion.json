@@ -155,6 +155,22 @@
         "documentation": {}
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -753,6 +769,14 @@
         "importPath": "django.db.models.deletion",
         "description": "django.db.models.deletion",
         "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
         "documentation": {}
     },
     {
@@ -1677,7 +1701,7 @@
         "kind": 5,
         "importPath": "backend.apps.comments.urls",
         "description": "backend.apps.comments.urls",
-        "peekOfCode": "urlpatterns = [\n    path(\"\", views.CommentListCreateView.as_view(), name=\"comment-list\"),\n    path(\"<int:pk>/\", views.CommentDetailView.as_view(), name=\"comment-detail\"),\n    path(\"my-comments/\", views.MyCommentsView.as_view(), name=\"my-comments\"),\n    path(\"post/<int:pk>/\", views.post_comments, name=\"post-comments\"),\n    path(\"<int:comment_id>/replies/\", views.comment_replies, name=\"comment-replies\"),\n]",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", views.CommentListCreateView.as_view(), name=\"comment-list\"),\n    path(\"<int:pk>/\", views.CommentDetailView.as_view(), name=\"comment-detail\"),\n    path(\"my-comments/\", views.MyCommentsView.as_view(), name=\"my-comments\"),\n    path(\"post/<int:post_id>/\", views.post_comments, name=\"post-comments\"),\n    path(\"<int:comment_id>/replies/\", views.comment_replies, name=\"comment-replies\"),\n]",
         "detail": "backend.apps.comments.urls",
         "documentation": {}
     },
@@ -2217,7 +2241,7 @@
         "kind": 5,
         "importPath": "backend.apps.payment.urls",
         "description": "backend.apps.payment.urls",
-        "peekOfCode": "urlpatterns = [\n    # Платежи пользователя\n    path('payments/', views.PaymentListView.as_view(), name='payment-list'),\n    path('payments/<int:pk>/', views.PaymentDetailView.as_view(), name='payment-detail'),\n    path('payments/<int:payment_id>/status/', views.payment_status, name='payment-status'),\n    path('payments/<int:payment_id>/cancel/', views.cancel_payment, name='cancel-payment'),\n    path('payments/<int:payment_id>/retry/', views.retry_payment, name='retry-payment'),\n    path('payments/history/', views.user_payment_history, name='user-payment-history'),\n    # Создание checkout сессии\n    path('create-checkout-session/', views.create_checkout_session, name='create-checkout-session'),",
+        "peekOfCode": "urlpatterns = [\n    # Payments\n    path('payments/', views.PaymentListView.as_view(), name='payment-list'),\n    path('payments/<int:pk>/', views.PaymentDetailView.as_view(), name='payment-detail'),\n    path('payments/<int:payment_id>/status/', views.payment_status, name='payment-status'),\n    path('payments/<int:payment_id>/cancel/', views.cancel_payment, name='cancel-payment'),\n    path('payments/<int:payment_id>/retry/', views.retry_payment, name='retry-payment'),\n    path('payments/history/', views.user_payment_history, name='payment-history'),\n    # Checkout\n    path('create-checkout-session/', views.create_checkout_session, name='create-checkout-session'),",
         "detail": "backend.apps.payment.urls",
         "documentation": {}
     },
@@ -2289,7 +2313,7 @@
         "kind": 2,
         "importPath": "backend.apps.payment.views",
         "description": "backend.apps.payment.views",
-        "peekOfCode": "def create_refund(request, payment_id):\n    \"\"\"Создает возврат для платежа\"\"\"\n    try:\n        payment = get_object_or_404(Payment, id=payment_id)\n        if not payment.can_be_refunded:\n            return Response({\n                'error': 'Этот платеж нельзя вернуть'\n            }, status=status.HTTP_400_BAD_REQUEST)\n        serializer = RefundCreateSerializer(\n            data=request.data,",
+        "peekOfCode": "def create_refund(request, payment_id):\n    \"\"\"Создает возврат для платежа\"\"\"\n    try:\n        payment = get_object_or_404(Payment, id=payment_id)\n        if not payment.can_be_refunded:\n            return Response({\n                'error': 'This payment cannot be refunded'\n            }, status=status.HTTP_400_BAD_REQUEST)\n        serializer = RefundCreateSerializer(\n            data=request.data,",
         "detail": "backend.apps.payment.views",
         "documentation": {}
     },
@@ -2298,7 +2322,7 @@
         "kind": 2,
         "importPath": "backend.apps.payment.views",
         "description": "backend.apps.payment.views",
-        "peekOfCode": "def stripe_webhook(request):\n    \"\"\"Webhook endpoint для Stripe\"\"\"\n    payload = request.body\n    sig_header = request.META.get('HTTP_STRIPE_SIGNATURE')\n    try:\n        # Верифицируем webhook\n        event = stripe.Webhook.construct_event(\n            payload, sig_header, settings.STRIPE_WEBHOOK_SECRET\n        )\n    except ValueError:",
+        "peekOfCode": "def stripe_webhook(request):\n    \"\"\"Webhook endpoint для Stripe\"\"\"\n    import logging\n    logger = logging.getLogger(__name__)\n    try:\n        payload = request.body\n        sig_header = request.META.get('HTTP_STRIPE_SIGNATURE')\n        logger.info(f\"Received Stripe webhook. Payload length: {len(payload)}, Sig: {sig_header[:20] if sig_header else None}...\")\n        # Верифицируем webhook\n        event = stripe.Webhook.construct_event(",
         "detail": "backend.apps.payment.views",
         "documentation": {}
     },
@@ -2363,6 +2387,15 @@
         "description": "backend.apps.subscribe.migrations.0001_initial",
         "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('frontpage', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='SubscriptionPlan',\n            fields=[",
         "detail": "backend.apps.subscribe.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.apps.subscribe.migrations.0002_alter_subscription_user",
+        "description": "backend.apps.subscribe.migrations.0002_alter_subscription_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('subscribe', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='subscription',\n            name='user',\n            field=models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, related_name='subscription', to=settings.AUTH_USER_MODEL, verbose_name='Пользователь'),",
+        "detail": "backend.apps.subscribe.migrations.0002_alter_subscription_user",
         "documentation": {}
     },
     {
@@ -2460,7 +2493,7 @@
         "kind": 6,
         "importPath": "backend.apps.subscribe.models",
         "description": "backend.apps.subscribe.models",
-        "peekOfCode": "class Subscription(models.Model):\n    STATUS_CHOICES = (\n        (\"active\", \"Ативен\"),\n        (\"expired\", \"Срок истек\"),\n        (\"canceled\", \"Отменен\"),\n        (\"pending\", \"Ожидает оплаты\"),\n    )\n    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='subscriptions', verbose_name='Пользователь')\n    plan = models.ForeignKey(SubscriptionPlan, on_delete=models.CASCADE, related_name='subscriptions', null=True, verbose_name='План подписки')\n    status = models.CharField(max_length=20, choices=STATUS_CHOICES, default=\"pending\", verbose_name='Статус подписки')",
+        "peekOfCode": "class Subscription(models.Model):\n    STATUS_CHOICES = (\n        (\"active\", \"Ативен\"),\n        (\"expired\", \"Срок истек\"),\n        (\"canceled\", \"Отменен\"),\n        (\"pending\", \"Ожидает оплаты\"),\n    )\n    user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='subscription', verbose_name='Пользователь')\n    plan = models.ForeignKey(SubscriptionPlan, on_delete=models.CASCADE, related_name='subscriptions', null=True, verbose_name='План подписки')\n    status = models.CharField(max_length=20, choices=STATUS_CHOICES, default=\"pending\", verbose_name='Статус подписки')",
         "detail": "backend.apps.subscribe.models",
         "documentation": {}
     },
@@ -3218,6 +3251,42 @@
         "description": "backend.manage",
         "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
         "detail": "backend.manage",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules.flatted.python.flatted",
         "documentation": {}
     }
 ]

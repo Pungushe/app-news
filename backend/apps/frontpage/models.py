@@ -111,7 +111,7 @@ class Post(models.Model):
             return False
         return True
     
-    @property
+    # @property
     def can_be_pinned_by(self, user):
         if not user or not user.is_authenticated:
             return False
